@@ -1,0 +1,1 @@
+Total Revenue = SUM(ecommerce_sales[revenue])\nTotal Orders = DISTINCTCOUNT(ecommerce_sales[order_id])\nTotal Units = SUM(ecommerce_sales[quantity])\nAverage Order Value = DIVIDE([Total Revenue],[Total Orders],0)\nUnique Customers = DISTINCTCOUNT(ecommerce_sales[customer_id])

@@ -1,0 +1,1 @@
+Employee Count = DISTINCTCOUNT(employees[employee_id])\nAttrition Count = CALCULATE([Employee Count],employees[attrition]="Yes")\nAttrition Rate = DIVIDE([Attrition Count],[Employee Count],0)\nAverage Monthly Salary = AVERAGE(employees[monthly_salary])\nAverage Tenure = AVERAGE(employees[years_at_company])

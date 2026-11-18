@@ -1,0 +1,1 @@
+Import the CSV into Power BI. Set order_date to Date. Add the DAX measures. Create KPI cards for revenue, orders, units and average order value; a monthly revenue line chart; category and region bar charts; slicers for region, category and channel. Save as Ecommerce_Sales_Dashboard.pbix.

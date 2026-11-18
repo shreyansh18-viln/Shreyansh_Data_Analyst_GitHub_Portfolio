@@ -1,0 +1,1 @@
+Import the CSV into Power BI. Add the DAX measures. Create KPI cards for employee count, attrition count, attrition rate and average salary; bar charts for headcount and attrition by department; slicers for department, gender, role and overtime. Save as HR_Attrition_Dashboard.pbix.

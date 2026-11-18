@@ -1,0 +1,701 @@
+transaction_id,transaction_date,account_id,transaction_type,amount,channel,status,branch_city
+T000001,2025-04-24,A00021,Deposit,41501.55,Branch,Successful,Delhi
+T000002,2025-08-14,A00065,Card Purchase,18149.5,Branch,Successful,Indore
+T000003,2025-10-06,A00105,Transfer,44863.33,Branch,Successful,Indore
+T000004,2025-10-20,A00056,Card Purchase,62890.24,Mobile App,Successful,Mumbai
+T000005,2025-04-06,A00148,Bill Payment,1702.01,Internet Banking,Successful,Mumbai
+T000006,2025-10-09,A00071,Card Purchase,6508.01,Internet Banking,Successful,Mumbai
+T000007,2025-02-28,A00082,Card Purchase,62455.38,Mobile App,Successful,Mumbai
+T000008,2025-05-07,A00106,Card Purchase,20608.34,ATM,Pending,Delhi
+T000009,2025-05-12,A00053,Withdrawal,74813.86,ATM,Successful,Pune
+T000010,2025-01-08,A00021,Transfer,64762.0,ATM,Successful,Pune
+T000011,2025-04-10,A00103,Bill Payment,13132.31,Branch,Successful,Indore
+T000012,2025-04-05,A00122,Card Purchase,51580.81,Branch,Successful,Delhi
+T000013,2025-07-20,A00109,Withdrawal,28157.77,Mobile App,Successful,Pune
+T000014,2025-07-24,A00132,Bill Payment,14175.29,ATM,Failed,Mumbai
+T000015,2025-10-12,A00120,Deposit,62948.85,ATM,Successful,Indore
+T000016,2025-10-13,A00045,Transfer,65960.48,Mobile App,Successful,Delhi
+T000017,2025-09-01,A00086,Transfer,45142.44,ATM,Successful,Bhopal
+T000018,2025-03-29,A00023,Withdrawal,66921.69,ATM,Successful,Indore
+T000019,2025-09-26,A00040,Withdrawal,53806.51,ATM,Failed,Mumbai
+T000020,2025-05-28,A00078,Deposit,20135.7,Internet Banking,Successful,Delhi
+T000021,2025-04-23,A00098,Bill Payment,1046.51,Internet Banking,Successful,Indore
+T000022,2025-04-27,A00104,Transfer,18113.11,Branch,Successful,Delhi
+T000023,2025-10-25,A00130,Deposit,18538.5,Mobile App,Successful,Indore
+T000024,2025-07-10,A00147,Deposit,66512.99,Branch,Successful,Pune
+T000025,2025-01-11,A00125,Card Purchase,11070.64,Internet Banking,Successful,Pune
+T000026,2025-08-25,A00069,Transfer,29997.51,ATM,Successful,Pune
+T000027,2025-12-06,A00086,Card Purchase,32585.12,ATM,Successful,Pune
+T000028,2025-12-16,A00084,Deposit,69595.46,Mobile App,Successful,Indore
+T000029,2025-06-20,A00066,Transfer,49721.89,Internet Banking,Successful,Delhi
+T000030,2025-08-19,A00119,Bill Payment,56997.22,Mobile App,Successful,Pune
+T000031,2025-03-31,A00030,Withdrawal,55743.42,ATM,Successful,Bhopal
+T000032,2025-09-10,A00086,Withdrawal,71211.34,Internet Banking,Successful,Indore
+T000033,2025-11-20,A00045,Deposit,13169.1,Branch,Successful,Indore
+T000034,2025-01-10,A00124,Bill Payment,37863.5,Branch,Successful,Bhopal
+T000035,2025-01-26,A00106,Withdrawal,25519.8,Internet Banking,Successful,Indore
+T000036,2025-11-27,A00130,Deposit,24293.63,Internet Banking,Successful,Mumbai
+T000037,2025-01-07,A00007,Deposit,63186.6,Internet Banking,Successful,Delhi
+T000038,2025-12-24,A00127,Transfer,62787.73,Internet Banking,Successful,Indore
+T000039,2025-07-16,A00067,Bill Payment,46590.97,Branch,Successful,Pune
+T000040,2025-07-12,A00027,Bill Payment,7437.05,Branch,Successful,Delhi
+T000041,2025-09-16,A00007,Deposit,54907.14,Internet Banking,Successful,Mumbai
+T000042,2025-01-24,A00108,Card Purchase,20813.94,Branch,Successful,Bhopal
+T000043,2025-06-29,A00148,Bill Payment,28478.68,Mobile App,Successful,Pune
+T000044,2025-11-12,A00014,Transfer,23088.06,ATM,Successful,Pune
+T000045,2025-07-24,A00145,Deposit,32340.93,ATM,Successful,Delhi
+T000046,2025-06-05,A00137,Deposit,52900.78,Branch,Successful,Indore
+T000047,2025-05-06,A00008,Withdrawal,60043.95,ATM,Successful,Bhopal
+T000048,2025-12-27,A00136,Card Purchase,57750.61,ATM,Failed,Indore
+T000049,2025-05-07,A00113,Card Purchase,66484.35,Mobile App,Successful,Delhi
+T000050,2025-03-31,A00143,Transfer,70168.98,Branch,Successful,Delhi
+T000051,2025-01-27,A00032,Withdrawal,62890.69,Branch,Successful,Pune
+T000052,2025-12-15,A00017,Transfer,24780.53,ATM,Successful,Mumbai
+T000053,2025-10-05,A00011,Card Purchase,65875.4,Internet Banking,Successful,Bhopal
+T000054,2025-09-07,A00031,Withdrawal,66558.9,ATM,Successful,Bhopal
+T000055,2025-01-01,A00014,Transfer,7409.4,ATM,Successful,Pune
+T000056,2025-06-17,A00034,Withdrawal,23583.87,Internet Banking,Successful,Pune
+T000057,2025-08-18,A00071,Transfer,45403.24,ATM,Successful,Mumbai
+T000058,2025-03-19,A00063,Deposit,50522.32,Branch,Successful,Mumbai
+T000059,2025-01-04,A00079,Transfer,7452.69,Mobile App,Successful,Delhi
+T000060,2025-10-04,A00041,Bill Payment,8077.88,Mobile App,Successful,Bhopal
+T000061,2025-03-24,A00054,Deposit,69960.18,Branch,Successful,Delhi
+T000062,2025-02-12,A00033,Withdrawal,34083.71,Branch,Successful,Delhi
+T000063,2025-11-17,A00116,Deposit,2427.87,Mobile App,Successful,Pune
+T000064,2025-08-12,A00089,Bill Payment,39926.3,ATM,Successful,Indore
+T000065,2025-05-30,A00108,Transfer,21968.99,Branch,Successful,Mumbai
+T000066,2025-08-16,A00073,Withdrawal,64815.03,Internet Banking,Successful,Pune
+T000067,2025-02-15,A00031,Bill Payment,4792.49,Internet Banking,Successful,Mumbai
+T000068,2025-09-11,A00067,Bill Payment,7823.52,ATM,Successful,Bhopal
+T000069,2025-01-04,A00124,Bill Payment,62703.49,Mobile App,Successful,Indore
+T000070,2025-10-13,A00022,Bill Payment,49539.49,Mobile App,Successful,Bhopal
+T000071,2025-05-28,A00084,Bill Payment,62301.09,Mobile App,Successful,Pune
+T000072,2025-09-02,A00036,Withdrawal,69089.47,Branch,Successful,Indore
+T000073,2025-05-21,A00138,Bill Payment,28129.14,ATM,Successful,Indore
+T000074,2025-08-28,A00106,Withdrawal,52375.05,Branch,Successful,Bhopal
+T000075,2025-06-08,A00097,Withdrawal,31159.74,Internet Banking,Successful,Mumbai
+T000076,2025-07-19,A00028,Withdrawal,5254.69,Branch,Successful,Delhi
+T000077,2025-07-31,A00090,Card Purchase,31415.99,ATM,Successful,Pune
+T000078,2025-09-17,A00139,Bill Payment,24779.72,Internet Banking,Successful,Delhi
+T000079,2025-08-17,A00010,Bill Payment,42274.37,ATM,Successful,Bhopal
+T000080,2025-01-29,A00089,Transfer,58707.24,ATM,Successful,Mumbai
+T000081,2025-08-15,A00138,Bill Payment,40014.87,Branch,Successful,Bhopal
+T000082,2025-12-08,A00054,Deposit,28588.35,Mobile App,Successful,Bhopal
+T000083,2025-10-11,A00084,Bill Payment,16906.24,Branch,Successful,Mumbai
+T000084,2025-01-18,A00104,Transfer,27913.46,ATM,Successful,Delhi
+T000085,2025-04-03,A00041,Bill Payment,70940.3,Mobile App,Successful,Bhopal
+T000086,2025-11-02,A00101,Card Purchase,4979.33,Mobile App,Failed,Mumbai
+T000087,2025-09-30,A00061,Deposit,41663.1,Internet Banking,Successful,Mumbai
+T000088,2025-01-07,A00003,Bill Payment,51826.79,Internet Banking,Successful,Mumbai
+T000089,2025-06-04,A00128,Withdrawal,42996.0,ATM,Successful,Mumbai
+T000090,2025-10-15,A00123,Card Purchase,26771.94,Internet Banking,Successful,Indore
+T000091,2025-10-22,A00008,Card Purchase,40940.82,Internet Banking,Successful,Mumbai
+T000092,2025-09-12,A00054,Bill Payment,58827.18,ATM,Successful,Indore
+T000093,2025-08-29,A00056,Transfer,35439.51,Branch,Successful,Mumbai
+T000094,2025-12-07,A00036,Bill Payment,60144.71,ATM,Successful,Delhi
+T000095,2025-11-03,A00048,Withdrawal,74092.96,Internet Banking,Successful,Indore
+T000096,2025-06-01,A00090,Withdrawal,43362.1,ATM,Successful,Mumbai
+T000097,2025-03-01,A00096,Card Purchase,11164.19,Branch,Successful,Pune
+T000098,2025-07-31,A00070,Bill Payment,70383.88,Mobile App,Successful,Pune
+T000099,2025-06-25,A00066,Deposit,16746.88,ATM,Successful,Bhopal
+T000100,2025-08-09,A00068,Transfer,1888.91,Mobile App,Successful,Pune
+T000101,2025-05-20,A00036,Withdrawal,27461.19,Mobile App,Successful,Pune
+T000102,2025-04-03,A00110,Transfer,6594.83,Internet Banking,Successful,Mumbai
+T000103,2025-09-27,A00133,Deposit,25829.81,Mobile App,Successful,Delhi
+T000104,2025-09-13,A00085,Withdrawal,18393.67,Mobile App,Successful,Indore
+T000105,2025-05-01,A00064,Withdrawal,2616.64,ATM,Successful,Delhi
+T000106,2025-06-29,A00128,Transfer,49929.31,ATM,Successful,Bhopal
+T000107,2025-08-06,A00133,Bill Payment,14156.63,Mobile App,Successful,Mumbai
+T000108,2025-06-28,A00031,Bill Payment,11253.47,ATM,Failed,Indore
+T000109,2025-09-22,A00039,Bill Payment,9580.02,ATM,Successful,Mumbai
+T000110,2025-08-29,A00021,Bill Payment,25411.59,Internet Banking,Successful,Mumbai
+T000111,2025-01-11,A00126,Bill Payment,15101.6,Branch,Successful,Delhi
+T000112,2025-04-25,A00026,Transfer,71883.25,Branch,Successful,Pune
+T000113,2025-11-25,A00082,Transfer,51381.52,Internet Banking,Successful,Pune
+T000114,2025-01-23,A00077,Bill Payment,60436.2,Internet Banking,Successful,Mumbai
+T000115,2025-06-04,A00140,Deposit,14147.66,ATM,Successful,Mumbai
+T000116,2025-12-13,A00149,Bill Payment,14197.24,Branch,Failed,Indore
+T000117,2025-09-28,A00012,Card Purchase,9568.37,Internet Banking,Successful,Pune
+T000118,2025-12-05,A00065,Transfer,68713.22,Internet Banking,Successful,Mumbai
+T000119,2025-09-28,A00011,Transfer,10337.53,ATM,Successful,Bhopal
+T000120,2025-05-05,A00038,Deposit,67338.78,Mobile App,Successful,Delhi
+T000121,2025-07-05,A00001,Bill Payment,31493.52,Branch,Successful,Indore
+T000122,2025-09-13,A00150,Deposit,30449.61,ATM,Successful,Delhi
+T000123,2025-03-31,A00038,Card Purchase,30356.85,ATM,Successful,Delhi
+T000124,2025-05-23,A00069,Deposit,18016.24,Internet Banking,Successful,Mumbai
+T000125,2025-10-19,A00026,Card Purchase,40161.58,ATM,Pending,Bhopal
+T000126,2025-03-12,A00005,Deposit,24704.0,Mobile App,Successful,Indore
+T000127,2025-08-03,A00047,Deposit,7034.36,Internet Banking,Successful,Bhopal
+T000128,2025-07-28,A00078,Withdrawal,10828.62,Internet Banking,Successful,Bhopal
+T000129,2025-01-22,A00089,Card Purchase,61837.85,Mobile App,Failed,Indore
+T000130,2025-04-18,A00113,Deposit,8886.35,Mobile App,Successful,Pune
+T000131,2025-10-24,A00144,Withdrawal,69085.27,Branch,Successful,Pune
+T000132,2025-01-04,A00127,Card Purchase,56788.25,Branch,Successful,Delhi
+T000133,2025-11-18,A00108,Deposit,32477.28,Mobile App,Successful,Bhopal
+T000134,2025-08-07,A00067,Transfer,22382.35,Branch,Successful,Mumbai
+T000135,2025-02-28,A00102,Bill Payment,33722.67,Branch,Successful,Bhopal
+T000136,2025-10-17,A00004,Withdrawal,65547.99,Mobile App,Successful,Mumbai
+T000137,2025-01-30,A00061,Withdrawal,33678.56,Internet Banking,Successful,Indore
+T000138,2025-04-30,A00048,Transfer,8666.21,Internet Banking,Successful,Indore
+T000139,2025-08-06,A00056,Deposit,54369.29,Internet Banking,Successful,Delhi
+T000140,2025-11-12,A00034,Deposit,52224.74,Branch,Successful,Bhopal
+T000141,2025-09-15,A00032,Card Purchase,17247.26,Mobile App,Successful,Mumbai
+T000142,2025-02-16,A00113,Card Purchase,61021.91,ATM,Successful,Pune
+T000143,2025-06-19,A00017,Transfer,65417.24,Branch,Successful,Delhi
+T000144,2025-11-16,A00045,Card Purchase,25759.12,Branch,Successful,Mumbai
+T000145,2025-10-14,A00053,Withdrawal,64789.05,ATM,Successful,Pune
+T000146,2025-05-17,A00066,Card Purchase,51318.9,Internet Banking,Successful,Bhopal
+T000147,2025-05-31,A00068,Bill Payment,16031.02,ATM,Successful,Delhi
+T000148,2025-03-09,A00055,Transfer,13089.84,Mobile App,Successful,Delhi
+T000149,2025-07-22,A00040,Transfer,67748.44,Internet Banking,Successful,Mumbai
+T000150,2025-04-01,A00135,Transfer,51178.28,Internet Banking,Pending,Bhopal
+T000151,2025-03-07,A00093,Bill Payment,38511.78,ATM,Successful,Mumbai
+T000152,2025-12-15,A00140,Transfer,278.04,Internet Banking,Successful,Mumbai
+T000153,2025-02-16,A00055,Deposit,61732.08,Internet Banking,Successful,Bhopal
+T000154,2025-05-30,A00072,Transfer,50818.68,Branch,Successful,Pune
+T000155,2025-12-01,A00030,Card Purchase,3434.05,ATM,Successful,Pune
+T000156,2025-02-10,A00150,Bill Payment,14533.26,Internet Banking,Pending,Mumbai
+T000157,2025-08-21,A00012,Transfer,19279.58,Branch,Successful,Mumbai
+T000158,2025-10-11,A00077,Deposit,56008.59,Mobile App,Successful,Mumbai
+T000159,2025-11-09,A00023,Withdrawal,73860.25,Branch,Successful,Delhi
+T000160,2025-06-29,A00148,Withdrawal,49105.23,Mobile App,Failed,Bhopal
+T000161,2025-11-17,A00043,Card Purchase,38347.56,ATM,Successful,Indore
+T000162,2025-10-11,A00045,Deposit,18208.24,Internet Banking,Successful,Delhi
+T000163,2025-10-25,A00120,Withdrawal,3241.74,Branch,Successful,Mumbai
+T000164,2025-03-15,A00007,Card Purchase,4594.89,ATM,Successful,Mumbai
+T000165,2025-12-19,A00028,Card Purchase,51512.96,Internet Banking,Successful,Pune
+T000166,2025-12-04,A00076,Transfer,13257.15,Internet Banking,Successful,Delhi
+T000167,2025-04-03,A00033,Transfer,28945.09,Mobile App,Successful,Delhi
+T000168,2025-07-09,A00023,Card Purchase,24801.74,Internet Banking,Successful,Indore
+T000169,2025-10-02,A00142,Card Purchase,65094.2,Mobile App,Successful,Bhopal
+T000170,2025-06-18,A00083,Bill Payment,1515.85,Branch,Successful,Delhi
+T000171,2025-05-14,A00082,Deposit,10994.32,Mobile App,Successful,Mumbai
+T000172,2025-06-27,A00088,Withdrawal,69304.93,Internet Banking,Successful,Indore
+T000173,2025-06-23,A00078,Transfer,53204.04,Branch,Successful,Indore
+T000174,2025-06-30,A00136,Bill Payment,51311.56,Mobile App,Successful,Pune
+T000175,2025-10-30,A00093,Bill Payment,20604.32,Branch,Successful,Mumbai
+T000176,2025-11-18,A00022,Withdrawal,49300.2,Internet Banking,Successful,Pune
+T000177,2025-05-25,A00142,Card Purchase,13626.33,Branch,Successful,Bhopal
+T000178,2025-02-22,A00036,Bill Payment,48096.84,Branch,Failed,Indore
+T000179,2025-04-26,A00003,Withdrawal,56580.67,ATM,Successful,Bhopal
+T000180,2025-03-22,A00136,Card Purchase,29908.07,Internet Banking,Successful,Indore
+T000181,2025-04-29,A00081,Transfer,41966.27,Internet Banking,Successful,Indore
+T000182,2025-07-06,A00112,Withdrawal,51380.16,Internet Banking,Successful,Pune
+T000183,2025-12-05,A00136,Transfer,72021.7,Branch,Successful,Delhi
+T000184,2025-10-10,A00141,Withdrawal,771.02,Internet Banking,Successful,Delhi
+T000185,2025-07-10,A00146,Deposit,48682.01,Branch,Successful,Delhi
+T000186,2025-02-09,A00023,Card Purchase,30077.0,ATM,Successful,Delhi
+T000187,2025-11-28,A00021,Bill Payment,68176.52,Internet Banking,Successful,Pune
+T000188,2025-11-05,A00139,Transfer,36533.29,ATM,Successful,Indore
+T000189,2025-07-31,A00032,Card Purchase,25983.48,ATM,Successful,Bhopal
+T000190,2025-05-03,A00057,Withdrawal,16714.8,Branch,Successful,Mumbai
+T000191,2025-01-29,A00004,Card Purchase,31447.22,Internet Banking,Successful,Mumbai
+T000192,2025-10-21,A00044,Bill Payment,34128.37,Mobile App,Successful,Indore
+T000193,2025-08-27,A00083,Withdrawal,47760.16,Branch,Successful,Delhi
+T000194,2025-03-31,A00060,Transfer,27754.41,Branch,Successful,Pune
+T000195,2025-06-30,A00090,Bill Payment,44865.55,Branch,Failed,Mumbai
+T000196,2025-06-19,A00085,Transfer,10749.25,Branch,Successful,Indore
+T000197,2025-08-25,A00139,Transfer,73790.09,Branch,Successful,Bhopal
+T000198,2025-07-29,A00137,Transfer,71775.37,Mobile App,Successful,Indore
+T000199,2025-10-01,A00068,Card Purchase,48099.77,Branch,Successful,Delhi
+T000200,2025-10-22,A00066,Deposit,26037.54,Branch,Failed,Mumbai
+T000201,2025-01-09,A00095,Deposit,43676.69,ATM,Successful,Pune
+T000202,2025-12-01,A00118,Deposit,44613.33,Mobile App,Successful,Mumbai
+T000203,2025-06-28,A00026,Withdrawal,71859.15,Internet Banking,Successful,Bhopal
+T000204,2025-04-02,A00137,Transfer,70169.98,Mobile App,Pending,Delhi
+T000205,2025-12-09,A00065,Bill Payment,46485.03,ATM,Successful,Indore
+T000206,2025-10-05,A00138,Card Purchase,4401.67,Internet Banking,Successful,Delhi
+T000207,2025-07-30,A00076,Bill Payment,14521.25,Branch,Successful,Pune
+T000208,2025-03-09,A00033,Transfer,33271.94,ATM,Successful,Indore
+T000209,2025-11-03,A00094,Transfer,1487.51,Internet Banking,Successful,Bhopal
+T000210,2025-10-29,A00028,Bill Payment,15780.32,Branch,Successful,Bhopal
+T000211,2025-02-25,A00059,Withdrawal,7500.33,Branch,Successful,Mumbai
+T000212,2025-09-01,A00042,Bill Payment,35376.93,ATM,Successful,Delhi
+T000213,2025-04-05,A00138,Deposit,50994.69,Branch,Successful,Delhi
+T000214,2025-02-23,A00019,Withdrawal,50270.3,Mobile App,Successful,Indore
+T000215,2025-11-10,A00106,Bill Payment,73251.8,Internet Banking,Successful,Pune
+T000216,2025-08-05,A00128,Withdrawal,69734.76,Mobile App,Successful,Pune
+T000217,2025-10-13,A00041,Transfer,27997.38,ATM,Successful,Delhi
+T000218,2025-09-15,A00127,Bill Payment,40462.66,ATM,Successful,Mumbai
+T000219,2025-06-19,A00017,Deposit,23033.02,Internet Banking,Successful,Delhi
+T000220,2025-11-19,A00120,Deposit,30299.27,Branch,Successful,Bhopal
+T000221,2025-01-14,A00135,Withdrawal,15250.7,Mobile App,Successful,Bhopal
+T000222,2025-07-03,A00050,Card Purchase,69906.56,ATM,Successful,Indore
+T000223,2025-05-08,A00083,Card Purchase,4438.22,Mobile App,Successful,Indore
+T000224,2025-01-13,A00100,Card Purchase,62689.27,Internet Banking,Successful,Indore
+T000225,2025-11-22,A00116,Withdrawal,44131.65,ATM,Successful,Delhi
+T000226,2025-06-10,A00147,Transfer,57485.75,Internet Banking,Successful,Mumbai
+T000227,2025-06-28,A00005,Deposit,57838.45,Branch,Successful,Indore
+T000228,2025-09-26,A00107,Deposit,59196.15,Internet Banking,Successful,Indore
+T000229,2025-03-03,A00069,Deposit,29270.46,ATM,Successful,Bhopal
+T000230,2025-03-03,A00084,Card Purchase,242.49,Internet Banking,Successful,Pune
+T000231,2025-10-25,A00043,Card Purchase,58110.29,Branch,Successful,Bhopal
+T000232,2025-04-26,A00045,Transfer,74836.89,Internet Banking,Pending,Indore
+T000233,2025-06-27,A00112,Withdrawal,37577.47,Internet Banking,Successful,Mumbai
+T000234,2025-09-24,A00002,Withdrawal,25308.77,Internet Banking,Successful,Delhi
+T000235,2025-12-26,A00060,Transfer,3175.17,Mobile App,Successful,Pune
+T000236,2025-04-28,A00105,Card Purchase,28928.23,Branch,Successful,Mumbai
+T000237,2025-10-05,A00032,Bill Payment,3750.04,Branch,Successful,Pune
+T000238,2025-01-17,A00053,Deposit,54178.44,ATM,Successful,Delhi
+T000239,2025-07-22,A00062,Transfer,25972.26,Mobile App,Successful,Bhopal
+T000240,2025-08-18,A00068,Card Purchase,35032.6,Mobile App,Successful,Bhopal
+T000241,2025-09-04,A00078,Card Purchase,49875.55,Mobile App,Successful,Pune
+T000242,2025-03-06,A00019,Deposit,74443.62,ATM,Successful,Bhopal
+T000243,2025-09-11,A00042,Deposit,40711.21,Mobile App,Successful,Bhopal
+T000244,2025-09-05,A00001,Transfer,51454.65,Mobile App,Successful,Mumbai
+T000245,2025-07-04,A00084,Transfer,11105.42,Mobile App,Successful,Delhi
+T000246,2025-12-06,A00001,Withdrawal,6110.27,Internet Banking,Successful,Bhopal
+T000247,2025-09-05,A00035,Deposit,70727.93,Internet Banking,Successful,Indore
+T000248,2025-01-03,A00082,Withdrawal,46406.27,ATM,Successful,Pune
+T000249,2025-07-13,A00136,Deposit,49376.43,ATM,Successful,Mumbai
+T000250,2025-02-08,A00030,Withdrawal,33379.78,Branch,Successful,Delhi
+T000251,2025-05-23,A00051,Transfer,30445.64,Branch,Successful,Bhopal
+T000252,2025-05-10,A00098,Bill Payment,7606.24,ATM,Successful,Mumbai
+T000253,2025-03-18,A00037,Card Purchase,58520.38,ATM,Successful,Bhopal
+T000254,2025-04-16,A00062,Withdrawal,11107.05,Branch,Successful,Mumbai
+T000255,2025-12-02,A00023,Withdrawal,4875.38,Branch,Successful,Indore
+T000256,2025-10-22,A00145,Card Purchase,56639.31,Branch,Successful,Bhopal
+T000257,2025-10-29,A00108,Card Purchase,72275.81,Mobile App,Failed,Delhi
+T000258,2025-10-17,A00109,Card Purchase,40563.67,ATM,Successful,Pune
+T000259,2025-11-23,A00012,Transfer,57023.78,ATM,Successful,Delhi
+T000260,2025-08-14,A00060,Bill Payment,58631.22,ATM,Successful,Indore
+T000261,2025-09-08,A00110,Bill Payment,53029.98,Mobile App,Pending,Delhi
+T000262,2025-05-16,A00127,Deposit,33584.54,Mobile App,Successful,Delhi
+T000263,2025-03-25,A00137,Transfer,22473.94,Internet Banking,Successful,Indore
+T000264,2025-03-29,A00113,Bill Payment,72777.77,Internet Banking,Successful,Pune
+T000265,2025-06-23,A00100,Card Purchase,10102.72,Branch,Successful,Indore
+T000266,2025-07-07,A00073,Withdrawal,26446.67,Mobile App,Successful,Delhi
+T000267,2025-09-10,A00002,Withdrawal,10037.18,ATM,Successful,Bhopal
+T000268,2025-07-24,A00085,Bill Payment,9889.66,Internet Banking,Successful,Pune
+T000269,2025-01-21,A00061,Transfer,51786.35,ATM,Successful,Pune
+T000270,2025-10-17,A00018,Transfer,28094.29,Internet Banking,Successful,Pune
+T000271,2025-07-08,A00052,Transfer,38785.26,ATM,Successful,Mumbai
+T000272,2025-04-02,A00125,Card Purchase,8756.65,ATM,Successful,Indore
+T000273,2025-08-01,A00130,Transfer,59505.98,Branch,Successful,Indore
+T000274,2025-07-02,A00127,Withdrawal,35428.39,Internet Banking,Successful,Bhopal
+T000275,2025-09-12,A00033,Deposit,62292.71,ATM,Successful,Pune
+T000276,2025-03-19,A00058,Bill Payment,20034.42,Branch,Successful,Mumbai
+T000277,2025-05-01,A00131,Card Purchase,21392.54,Branch,Failed,Pune
+T000278,2025-01-26,A00065,Withdrawal,68416.1,ATM,Successful,Pune
+T000279,2025-08-24,A00035,Bill Payment,812.0,ATM,Successful,Pune
+T000280,2025-06-26,A00080,Transfer,62536.71,Branch,Successful,Delhi
+T000281,2025-02-05,A00059,Bill Payment,19153.24,ATM,Successful,Indore
+T000282,2025-03-12,A00064,Card Purchase,73029.25,ATM,Successful,Delhi
+T000283,2025-03-27,A00027,Transfer,34277.13,Internet Banking,Successful,Bhopal
+T000284,2025-03-20,A00072,Bill Payment,978.28,Internet Banking,Successful,Indore
+T000285,2025-08-05,A00042,Withdrawal,55552.26,Branch,Successful,Indore
+T000286,2025-06-15,A00023,Deposit,57953.23,Mobile App,Successful,Indore
+T000287,2025-09-22,A00033,Card Purchase,38189.98,Internet Banking,Successful,Delhi
+T000288,2025-06-17,A00024,Transfer,51882.55,Branch,Successful,Mumbai
+T000289,2025-01-27,A00061,Transfer,44657.83,Branch,Failed,Mumbai
+T000290,2025-03-05,A00122,Withdrawal,44965.65,Branch,Successful,Bhopal
+T000291,2025-01-03,A00035,Card Purchase,57642.44,Branch,Failed,Indore
+T000292,2025-03-31,A00068,Card Purchase,19889.28,Branch,Successful,Mumbai
+T000293,2025-05-03,A00144,Card Purchase,62172.13,ATM,Successful,Pune
+T000294,2025-08-04,A00130,Card Purchase,2854.61,Branch,Successful,Indore
+T000295,2025-02-10,A00028,Transfer,18890.29,Internet Banking,Successful,Mumbai
+T000296,2025-09-01,A00009,Card Purchase,68291.85,Branch,Successful,Indore
+T000297,2025-07-08,A00112,Bill Payment,43346.87,Internet Banking,Successful,Pune
+T000298,2025-06-14,A00150,Bill Payment,1039.94,ATM,Successful,Pune
+T000299,2025-05-14,A00081,Card Purchase,44967.94,Internet Banking,Successful,Indore
+T000300,2025-05-28,A00030,Transfer,9893.91,Branch,Successful,Bhopal
+T000301,2025-07-17,A00128,Withdrawal,26729.67,Mobile App,Successful,Mumbai
+T000302,2025-12-14,A00096,Withdrawal,23270.74,Branch,Successful,Mumbai
+T000303,2025-06-22,A00114,Transfer,51249.92,ATM,Successful,Bhopal
+T000304,2025-02-15,A00118,Card Purchase,58970.6,Branch,Successful,Mumbai
+T000305,2025-01-17,A00078,Card Purchase,36724.66,Internet Banking,Successful,Delhi
+T000306,2025-08-29,A00005,Card Purchase,26450.28,Branch,Successful,Delhi
+T000307,2025-07-21,A00001,Transfer,26590.84,ATM,Successful,Indore
+T000308,2025-09-18,A00141,Bill Payment,26883.61,ATM,Successful,Indore
+T000309,2025-07-20,A00008,Transfer,52584.68,Branch,Successful,Pune
+T000310,2025-01-23,A00010,Bill Payment,33932.12,Branch,Successful,Indore
+T000311,2025-06-26,A00032,Deposit,40916.07,ATM,Successful,Indore
+T000312,2025-05-18,A00119,Bill Payment,25672.12,ATM,Successful,Pune
+T000313,2025-12-27,A00092,Deposit,8983.37,Internet Banking,Successful,Indore
+T000314,2025-11-08,A00148,Transfer,13708.62,Mobile App,Successful,Delhi
+T000315,2025-12-30,A00012,Withdrawal,67865.18,Branch,Successful,Pune
+T000316,2025-10-05,A00097,Transfer,36952.17,Branch,Successful,Bhopal
+T000317,2025-10-04,A00037,Bill Payment,40580.14,Mobile App,Successful,Bhopal
+T000318,2025-08-24,A00145,Transfer,68907.84,Mobile App,Successful,Bhopal
+T000319,2025-03-24,A00041,Transfer,36350.49,Internet Banking,Successful,Mumbai
+T000320,2025-09-02,A00016,Transfer,65644.23,Mobile App,Successful,Indore
+T000321,2025-09-06,A00039,Transfer,3700.11,Internet Banking,Successful,Bhopal
+T000322,2025-09-25,A00150,Withdrawal,5599.28,Internet Banking,Successful,Mumbai
+T000323,2025-05-30,A00030,Card Purchase,61365.24,Internet Banking,Successful,Delhi
+T000324,2025-10-10,A00006,Transfer,28760.52,Mobile App,Pending,Indore
+T000325,2025-12-01,A00095,Withdrawal,36724.04,ATM,Successful,Indore
+T000326,2025-11-30,A00041,Card Purchase,73819.14,Mobile App,Successful,Pune
+T000327,2025-04-25,A00066,Deposit,30860.33,Mobile App,Successful,Pune
+T000328,2025-12-18,A00069,Bill Payment,32712.83,Internet Banking,Successful,Mumbai
+T000329,2025-02-07,A00038,Card Purchase,4718.72,Mobile App,Successful,Indore
+T000330,2025-06-24,A00006,Card Purchase,67652.66,Mobile App,Successful,Pune
+T000331,2025-04-14,A00027,Deposit,27008.72,Branch,Successful,Indore
+T000332,2025-08-26,A00063,Transfer,71575.26,Branch,Successful,Pune
+T000333,2025-05-06,A00018,Withdrawal,29231.46,Internet Banking,Successful,Mumbai
+T000334,2025-09-27,A00094,Card Purchase,24560.6,Branch,Successful,Pune
+T000335,2025-11-28,A00149,Deposit,36964.89,ATM,Successful,Mumbai
+T000336,2025-09-14,A00122,Deposit,14708.17,ATM,Successful,Pune
+T000337,2025-09-21,A00133,Withdrawal,9880.97,Mobile App,Successful,Bhopal
+T000338,2025-07-01,A00049,Card Purchase,35076.49,ATM,Successful,Indore
+T000339,2025-06-16,A00124,Withdrawal,21871.84,Branch,Successful,Delhi
+T000340,2025-06-17,A00020,Card Purchase,71254.72,Mobile App,Pending,Mumbai
+T000341,2025-02-05,A00137,Withdrawal,47321.53,Internet Banking,Successful,Pune
+T000342,2025-05-22,A00135,Bill Payment,74972.05,ATM,Successful,Pune
+T000343,2025-02-13,A00104,Bill Payment,3327.69,Internet Banking,Failed,Bhopal
+T000344,2025-12-27,A00012,Card Purchase,11040.0,Mobile App,Successful,Indore
+T000345,2025-08-26,A00112,Bill Payment,24579.56,Mobile App,Successful,Pune
+T000346,2025-04-08,A00034,Card Purchase,69228.89,ATM,Successful,Indore
+T000347,2025-06-27,A00094,Withdrawal,69550.87,Mobile App,Successful,Bhopal
+T000348,2025-06-12,A00138,Card Purchase,9119.52,Internet Banking,Successful,Mumbai
+T000349,2025-05-30,A00058,Bill Payment,43830.51,Mobile App,Successful,Delhi
+T000350,2025-08-04,A00022,Transfer,8506.45,ATM,Successful,Pune
+T000351,2025-04-04,A00088,Withdrawal,68113.12,ATM,Successful,Bhopal
+T000352,2025-08-26,A00037,Card Purchase,56710.05,Branch,Successful,Delhi
+T000353,2025-08-08,A00140,Bill Payment,55513.68,Mobile App,Successful,Mumbai
+T000354,2025-03-01,A00019,Deposit,30030.81,Branch,Successful,Mumbai
+T000355,2025-06-09,A00096,Card Purchase,74311.86,Branch,Successful,Bhopal
+T000356,2025-02-03,A00131,Withdrawal,71720.51,Internet Banking,Failed,Delhi
+T000357,2025-01-13,A00034,Withdrawal,73196.59,Mobile App,Successful,Pune
+T000358,2025-06-10,A00112,Withdrawal,31918.27,ATM,Successful,Delhi
+T000359,2025-05-21,A00052,Deposit,21151.23,Internet Banking,Successful,Mumbai
+T000360,2025-10-23,A00071,Deposit,62322.33,ATM,Successful,Bhopal
+T000361,2025-10-12,A00084,Deposit,6093.22,Internet Banking,Failed,Bhopal
+T000362,2025-07-12,A00048,Card Purchase,22980.77,Branch,Successful,Bhopal
+T000363,2025-01-17,A00131,Deposit,73541.71,Internet Banking,Successful,Pune
+T000364,2025-08-31,A00082,Bill Payment,52803.19,Branch,Successful,Pune
+T000365,2025-10-10,A00012,Bill Payment,66230.3,Mobile App,Successful,Bhopal
+T000366,2025-12-03,A00097,Card Purchase,4143.65,ATM,Successful,Bhopal
+T000367,2025-03-25,A00145,Card Purchase,1383.29,Branch,Successful,Bhopal
+T000368,2025-12-01,A00029,Card Purchase,49541.38,ATM,Successful,Delhi
+T000369,2025-01-22,A00055,Bill Payment,6303.22,Branch,Successful,Indore
+T000370,2025-10-28,A00149,Bill Payment,16507.55,Internet Banking,Successful,Delhi
+T000371,2025-11-13,A00022,Bill Payment,71290.2,Mobile App,Successful,Indore
+T000372,2025-07-23,A00095,Card Purchase,61908.83,ATM,Successful,Indore
+T000373,2025-03-02,A00038,Transfer,39866.03,Branch,Successful,Pune
+T000374,2025-10-26,A00117,Bill Payment,21940.4,Internet Banking,Successful,Pune
+T000375,2025-11-15,A00056,Deposit,73311.53,ATM,Successful,Indore
+T000376,2025-09-29,A00033,Deposit,2861.5,ATM,Successful,Mumbai
+T000377,2025-12-13,A00106,Card Purchase,2028.97,Mobile App,Failed,Pune
+T000378,2025-02-26,A00139,Bill Payment,34705.39,Internet Banking,Successful,Indore
+T000379,2025-12-21,A00114,Deposit,40770.26,Mobile App,Successful,Pune
+T000380,2025-02-17,A00135,Card Purchase,56588.13,ATM,Successful,Delhi
+T000381,2025-04-14,A00123,Withdrawal,64385.97,ATM,Successful,Pune
+T000382,2025-09-21,A00062,Bill Payment,31178.74,Internet Banking,Successful,Delhi
+T000383,2025-07-24,A00058,Bill Payment,32689.72,Internet Banking,Successful,Delhi
+T000384,2025-01-07,A00055,Transfer,21676.35,Mobile App,Failed,Bhopal
+T000385,2025-02-02,A00024,Withdrawal,26770.08,Branch,Successful,Indore
+T000386,2025-12-07,A00070,Card Purchase,24367.62,Mobile App,Successful,Delhi
+T000387,2025-10-14,A00060,Card Purchase,8382.95,Branch,Successful,Indore
+T000388,2025-10-08,A00115,Transfer,41296.54,ATM,Successful,Pune
+T000389,2025-09-28,A00047,Bill Payment,13995.14,ATM,Successful,Delhi
+T000390,2025-01-20,A00073,Bill Payment,57356.46,Branch,Successful,Mumbai
+T000391,2025-02-05,A00097,Transfer,35620.97,ATM,Successful,Bhopal
+T000392,2025-01-06,A00081,Transfer,68469.55,Branch,Successful,Bhopal
+T000393,2025-04-13,A00019,Deposit,52283.96,Branch,Successful,Mumbai
+T000394,2025-01-04,A00032,Withdrawal,26879.8,Branch,Successful,Bhopal
+T000395,2025-06-27,A00114,Deposit,37018.21,Branch,Successful,Indore
+T000396,2025-05-01,A00145,Card Purchase,11867.2,ATM,Successful,Bhopal
+T000397,2025-04-11,A00086,Card Purchase,1914.72,Branch,Successful,Pune
+T000398,2025-07-05,A00023,Transfer,63552.21,Mobile App,Successful,Bhopal
+T000399,2025-12-23,A00104,Card Purchase,54140.6,Mobile App,Successful,Mumbai
+T000400,2025-01-09,A00039,Card Purchase,20088.37,Branch,Successful,Delhi
+T000401,2025-09-21,A00123,Card Purchase,56214.67,Branch,Pending,Bhopal
+T000402,2025-05-13,A00067,Bill Payment,15542.55,ATM,Successful,Pune
+T000403,2025-07-06,A00001,Transfer,20070.39,Branch,Failed,Indore
+T000404,2025-12-27,A00133,Bill Payment,35310.02,Mobile App,Successful,Pune
+T000405,2025-11-15,A00115,Deposit,12845.08,Internet Banking,Successful,Mumbai
+T000406,2025-05-16,A00029,Bill Payment,66157.27,Branch,Successful,Mumbai
+T000407,2025-05-08,A00009,Card Purchase,51526.9,Internet Banking,Successful,Mumbai
+T000408,2025-10-21,A00043,Card Purchase,50319.56,Internet Banking,Successful,Pune
+T000409,2025-09-18,A00138,Withdrawal,71432.14,Internet Banking,Successful,Mumbai
+T000410,2025-12-24,A00071,Deposit,38304.16,ATM,Successful,Indore
+T000411,2025-08-16,A00076,Bill Payment,15506.77,Internet Banking,Successful,Mumbai
+T000412,2025-05-11,A00117,Withdrawal,2553.37,Internet Banking,Successful,Mumbai
+T000413,2025-09-21,A00112,Transfer,39793.59,Mobile App,Successful,Indore
+T000414,2025-02-14,A00002,Transfer,31062.17,Branch,Successful,Bhopal
+T000415,2025-10-14,A00050,Transfer,62603.51,Branch,Successful,Indore
+T000416,2025-02-13,A00149,Withdrawal,51829.37,Mobile App,Successful,Mumbai
+T000417,2025-08-13,A00145,Withdrawal,10187.18,ATM,Successful,Indore
+T000418,2025-01-08,A00143,Deposit,8833.91,ATM,Successful,Bhopal
+T000419,2025-06-26,A00081,Card Purchase,43220.92,Branch,Successful,Delhi
+T000420,2025-09-19,A00067,Transfer,71654.58,Mobile App,Successful,Mumbai
+T000421,2025-11-30,A00031,Withdrawal,51548.74,Branch,Successful,Mumbai
+T000422,2025-07-02,A00017,Deposit,35931.45,Mobile App,Successful,Delhi
+T000423,2025-06-16,A00117,Withdrawal,40389.33,Internet Banking,Successful,Mumbai
+T000424,2025-04-05,A00029,Card Purchase,63717.74,ATM,Successful,Mumbai
+T000425,2025-01-09,A00138,Transfer,74439.92,Mobile App,Successful,Bhopal
+T000426,2025-04-22,A00129,Deposit,45088.45,Internet Banking,Successful,Bhopal
+T000427,2025-03-05,A00131,Transfer,69247.59,ATM,Successful,Indore
+T000428,2025-11-01,A00011,Card Purchase,60351.69,ATM,Successful,Mumbai
+T000429,2025-02-26,A00103,Deposit,35430.61,Branch,Failed,Bhopal
+T000430,2025-03-06,A00012,Card Purchase,7172.63,ATM,Successful,Mumbai
+T000431,2025-12-11,A00125,Withdrawal,30046.42,ATM,Successful,Pune
+T000432,2025-03-30,A00016,Transfer,66468.73,ATM,Successful,Delhi
+T000433,2025-10-10,A00137,Transfer,20901.07,ATM,Successful,Delhi
+T000434,2025-09-24,A00039,Withdrawal,39676.22,Branch,Successful,Pune
+T000435,2025-12-19,A00118,Deposit,38724.07,Branch,Successful,Indore
+T000436,2025-05-13,A00106,Transfer,21544.32,ATM,Successful,Mumbai
+T000437,2025-08-26,A00063,Transfer,27901.74,Mobile App,Successful,Mumbai
+T000438,2025-07-12,A00134,Deposit,60298.7,Mobile App,Successful,Delhi
+T000439,2025-11-04,A00107,Bill Payment,26334.63,Internet Banking,Successful,Delhi
+T000440,2025-07-20,A00129,Transfer,13266.86,Mobile App,Successful,Indore
+T000441,2025-04-13,A00082,Transfer,68588.57,Internet Banking,Successful,Delhi
+T000442,2025-04-26,A00064,Transfer,51471.88,Mobile App,Successful,Bhopal
+T000443,2025-05-31,A00068,Withdrawal,52259.48,ATM,Successful,Indore
+T000444,2025-10-08,A00059,Deposit,6178.9,Internet Banking,Successful,Bhopal
+T000445,2025-11-13,A00020,Withdrawal,56064.33,ATM,Successful,Bhopal
+T000446,2025-02-07,A00011,Card Purchase,54323.19,ATM,Successful,Bhopal
+T000447,2025-01-20,A00023,Transfer,11551.77,Branch,Successful,Bhopal
+T000448,2025-02-14,A00098,Card Purchase,60435.95,Branch,Successful,Indore
+T000449,2025-10-06,A00074,Transfer,56186.98,Branch,Successful,Bhopal
+T000450,2025-09-17,A00051,Bill Payment,21018.47,ATM,Successful,Indore
+T000451,2025-03-21,A00033,Deposit,44404.52,Mobile App,Successful,Pune
+T000452,2025-12-17,A00007,Withdrawal,19107.24,Internet Banking,Successful,Delhi
+T000453,2025-01-05,A00042,Card Purchase,27162.32,ATM,Successful,Pune
+T000454,2025-08-23,A00126,Deposit,14189.86,Internet Banking,Successful,Mumbai
+T000455,2025-07-21,A00008,Withdrawal,64377.47,ATM,Successful,Delhi
+T000456,2025-04-25,A00132,Withdrawal,6526.26,ATM,Successful,Delhi
+T000457,2025-08-20,A00043,Card Purchase,37375.75,Branch,Successful,Indore
+T000458,2025-01-16,A00147,Withdrawal,30410.52,Mobile App,Successful,Pune
+T000459,2025-10-19,A00150,Card Purchase,10130.07,ATM,Successful,Pune
+T000460,2025-03-09,A00049,Deposit,19975.01,Mobile App,Failed,Mumbai
+T000461,2025-11-24,A00103,Deposit,22448.33,Branch,Successful,Mumbai
+T000462,2025-10-01,A00019,Transfer,31478.07,Branch,Successful,Indore
+T000463,2025-09-18,A00030,Card Purchase,25753.99,ATM,Successful,Bhopal
+T000464,2025-04-23,A00108,Withdrawal,53061.08,ATM,Failed,Delhi
+T000465,2025-12-03,A00001,Deposit,31456.63,Branch,Successful,Bhopal
+T000466,2025-02-28,A00077,Card Purchase,39495.67,ATM,Successful,Indore
+T000467,2025-04-09,A00050,Bill Payment,3167.18,Internet Banking,Successful,Indore
+T000468,2025-11-05,A00047,Deposit,5695.1,Branch,Successful,Indore
+T000469,2025-05-04,A00139,Card Purchase,26910.59,Mobile App,Successful,Pune
+T000470,2025-08-28,A00066,Bill Payment,22527.85,Internet Banking,Successful,Delhi
+T000471,2025-02-16,A00108,Withdrawal,74016.15,Internet Banking,Successful,Pune
+T000472,2025-05-24,A00102,Deposit,28655.17,ATM,Successful,Bhopal
+T000473,2025-01-09,A00146,Withdrawal,72155.28,Mobile App,Successful,Indore
+T000474,2025-01-11,A00024,Deposit,71284.4,Branch,Failed,Delhi
+T000475,2025-01-15,A00009,Withdrawal,58585.47,Mobile App,Successful,Bhopal
+T000476,2025-01-06,A00022,Deposit,39280.84,Internet Banking,Successful,Pune
+T000477,2025-06-28,A00056,Transfer,14067.98,Mobile App,Failed,Delhi
+T000478,2025-08-03,A00120,Card Purchase,9441.95,Branch,Successful,Bhopal
+T000479,2025-09-02,A00093,Card Purchase,65671.4,Internet Banking,Successful,Indore
+T000480,2025-10-16,A00080,Withdrawal,62150.12,Branch,Successful,Mumbai
+T000481,2025-05-15,A00108,Card Purchase,11163.57,Mobile App,Successful,Pune
+T000482,2025-03-16,A00135,Card Purchase,26970.09,Internet Banking,Successful,Delhi
+T000483,2025-11-16,A00087,Deposit,41208.64,ATM,Successful,Indore
+T000484,2025-02-16,A00047,Bill Payment,53627.17,Internet Banking,Successful,Pune
+T000485,2025-05-12,A00059,Card Purchase,16388.98,Mobile App,Successful,Indore
+T000486,2025-10-07,A00150,Deposit,36571.45,Internet Banking,Successful,Mumbai
+T000487,2025-07-28,A00134,Bill Payment,25225.44,Mobile App,Successful,Bhopal
+T000488,2025-04-28,A00083,Bill Payment,27190.83,Branch,Successful,Indore
+T000489,2025-12-15,A00126,Deposit,34058.08,Internet Banking,Successful,Indore
+T000490,2025-02-23,A00092,Card Purchase,45689.85,Branch,Successful,Mumbai
+T000491,2025-09-02,A00094,Withdrawal,10485.66,Mobile App,Successful,Mumbai
+T000492,2025-06-22,A00085,Deposit,73851.38,Branch,Successful,Mumbai
+T000493,2025-02-22,A00051,Card Purchase,66517.35,ATM,Successful,Indore
+T000494,2025-09-05,A00108,Withdrawal,13687.75,Internet Banking,Successful,Pune
+T000495,2025-10-26,A00034,Deposit,21494.96,Branch,Successful,Delhi
+T000496,2025-01-13,A00039,Bill Payment,15579.96,Mobile App,Failed,Mumbai
+T000497,2025-11-18,A00120,Card Purchase,70920.11,ATM,Successful,Mumbai
+T000498,2025-12-09,A00002,Deposit,66307.09,Branch,Successful,Bhopal
+T000499,2025-08-09,A00007,Deposit,50252.27,ATM,Successful,Pune
+T000500,2025-09-10,A00087,Transfer,7850.3,Mobile App,Successful,Indore
+T000501,2025-12-05,A00132,Card Purchase,17928.19,Branch,Successful,Bhopal
+T000502,2025-03-19,A00021,Card Purchase,55754.5,Internet Banking,Successful,Indore
+T000503,2025-10-14,A00029,Transfer,33848.31,Mobile App,Successful,Pune
+T000504,2025-12-11,A00141,Bill Payment,19165.13,Internet Banking,Successful,Mumbai
+T000505,2025-02-01,A00100,Transfer,57601.68,ATM,Successful,Bhopal
+T000506,2025-12-17,A00071,Withdrawal,24803.99,Branch,Successful,Mumbai
+T000507,2025-11-29,A00036,Bill Payment,68395.0,Internet Banking,Failed,Delhi
+T000508,2025-12-03,A00136,Withdrawal,39589.74,Mobile App,Successful,Pune
+T000509,2025-12-22,A00024,Bill Payment,66502.18,Internet Banking,Successful,Bhopal
+T000510,2025-01-10,A00064,Card Purchase,20400.92,ATM,Successful,Pune
+T000511,2025-08-31,A00001,Bill Payment,2809.09,Branch,Successful,Pune
+T000512,2025-09-18,A00086,Card Purchase,17403.33,ATM,Successful,Delhi
+T000513,2025-03-01,A00040,Deposit,24036.07,Internet Banking,Successful,Delhi
+T000514,2025-01-29,A00135,Withdrawal,58714.47,Branch,Successful,Pune
+T000515,2025-01-17,A00088,Card Purchase,45500.52,Mobile App,Successful,Indore
+T000516,2025-07-09,A00042,Card Purchase,47902.95,Internet Banking,Successful,Mumbai
+T000517,2025-05-27,A00101,Bill Payment,46317.37,Internet Banking,Successful,Bhopal
+T000518,2025-09-15,A00025,Withdrawal,30986.85,Branch,Successful,Pune
+T000519,2025-02-16,A00075,Withdrawal,44071.68,Internet Banking,Successful,Indore
+T000520,2025-05-07,A00087,Withdrawal,13140.7,Internet Banking,Successful,Pune
+T000521,2025-06-15,A00082,Card Purchase,10657.77,Mobile App,Successful,Indore
+T000522,2025-08-02,A00124,Card Purchase,56954.44,Internet Banking,Successful,Indore
+T000523,2025-04-28,A00126,Card Purchase,512.77,ATM,Successful,Delhi
+T000524,2025-09-12,A00096,Deposit,17327.27,ATM,Successful,Indore
+T000525,2025-05-31,A00070,Bill Payment,69880.48,Mobile App,Successful,Indore
+T000526,2025-10-23,A00012,Transfer,44234.61,ATM,Pending,Bhopal
+T000527,2025-07-07,A00058,Bill Payment,12907.15,Internet Banking,Successful,Pune
+T000528,2025-12-12,A00136,Deposit,50864.97,Branch,Successful,Mumbai
+T000529,2025-09-05,A00035,Withdrawal,32442.97,Mobile App,Successful,Indore
+T000530,2025-08-04,A00034,Bill Payment,45825.81,Branch,Successful,Bhopal
+T000531,2025-03-27,A00039,Deposit,57206.17,Branch,Successful,Mumbai
+T000532,2025-01-12,A00028,Transfer,59619.02,Mobile App,Successful,Mumbai
+T000533,2025-02-17,A00076,Transfer,44092.2,ATM,Successful,Delhi
+T000534,2025-07-06,A00057,Withdrawal,74734.48,Internet Banking,Successful,Delhi
+T000535,2025-06-09,A00039,Bill Payment,16635.62,Branch,Successful,Delhi
+T000536,2025-07-04,A00096,Withdrawal,68945.05,Internet Banking,Successful,Mumbai
+T000537,2025-09-27,A00080,Transfer,58292.27,ATM,Pending,Mumbai
+T000538,2025-08-23,A00075,Deposit,53001.33,Branch,Successful,Mumbai
+T000539,2025-09-07,A00024,Withdrawal,62365.35,Internet Banking,Successful,Bhopal
+T000540,2025-08-06,A00127,Transfer,35719.5,Internet Banking,Successful,Delhi
+T000541,2025-06-21,A00150,Withdrawal,28231.83,Internet Banking,Successful,Indore
+T000542,2025-07-15,A00090,Bill Payment,66990.68,Branch,Successful,Mumbai
+T000543,2025-09-23,A00017,Card Purchase,16137.29,Mobile App,Successful,Indore
+T000544,2025-08-18,A00108,Card Purchase,8932.33,ATM,Successful,Bhopal
+T000545,2025-11-07,A00128,Bill Payment,38636.26,Mobile App,Successful,Delhi
+T000546,2025-08-08,A00125,Withdrawal,73228.37,ATM,Successful,Indore
+T000547,2025-07-15,A00145,Transfer,22625.91,ATM,Successful,Delhi
+T000548,2025-10-27,A00027,Transfer,17319.05,Mobile App,Successful,Pune
+T000549,2025-02-08,A00058,Bill Payment,36617.11,Internet Banking,Successful,Bhopal
+T000550,2025-07-05,A00108,Transfer,27551.28,Mobile App,Successful,Bhopal
+T000551,2025-12-08,A00016,Withdrawal,74198.58,Mobile App,Failed,Bhopal
+T000552,2025-07-15,A00128,Withdrawal,57326.39,Branch,Successful,Pune
+T000553,2025-08-17,A00048,Deposit,56826.35,Mobile App,Successful,Pune
+T000554,2025-01-27,A00084,Transfer,45172.18,Mobile App,Failed,Bhopal
+T000555,2025-11-26,A00097,Withdrawal,2471.86,Branch,Successful,Pune
+T000556,2025-08-01,A00141,Bill Payment,756.54,Internet Banking,Successful,Delhi
+T000557,2025-06-30,A00061,Bill Payment,44770.31,Branch,Successful,Bhopal
+T000558,2025-07-31,A00147,Withdrawal,36069.53,ATM,Successful,Mumbai
+T000559,2025-02-24,A00010,Deposit,22804.93,Mobile App,Successful,Bhopal
+T000560,2025-08-20,A00074,Deposit,28040.27,Mobile App,Successful,Pune
+T000561,2025-03-18,A00075,Deposit,31881.41,Internet Banking,Successful,Bhopal
+T000562,2025-01-25,A00082,Transfer,5007.69,ATM,Successful,Bhopal
+T000563,2025-07-26,A00105,Deposit,69921.61,Mobile App,Successful,Indore
+T000564,2025-11-23,A00117,Card Purchase,23739.54,Internet Banking,Pending,Mumbai
+T000565,2025-07-27,A00145,Card Purchase,72301.55,Mobile App,Successful,Delhi
+T000566,2025-04-18,A00022,Transfer,68665.07,ATM,Successful,Bhopal
+T000567,2025-05-26,A00029,Card Purchase,44750.48,ATM,Successful,Delhi
+T000568,2025-11-26,A00049,Withdrawal,48519.12,ATM,Successful,Pune
+T000569,2025-06-05,A00085,Transfer,29604.21,Internet Banking,Successful,Delhi
+T000570,2025-11-17,A00126,Deposit,58572.14,ATM,Successful,Mumbai
+T000571,2025-09-26,A00125,Card Purchase,3997.62,Internet Banking,Successful,Delhi
+T000572,2025-05-15,A00127,Transfer,21390.7,Branch,Failed,Bhopal
+T000573,2025-09-10,A00093,Deposit,71120.38,Branch,Successful,Indore
+T000574,2025-12-18,A00121,Bill Payment,30919.37,Branch,Successful,Mumbai
+T000575,2025-04-16,A00138,Card Purchase,6688.47,Branch,Successful,Mumbai
+T000576,2025-08-18,A00130,Deposit,40808.4,Branch,Successful,Bhopal
+T000577,2025-08-18,A00041,Deposit,64133.92,Branch,Successful,Pune
+T000578,2025-10-31,A00015,Deposit,25057.17,ATM,Successful,Delhi
+T000579,2025-04-23,A00008,Deposit,10307.78,ATM,Failed,Mumbai
+T000580,2025-08-22,A00088,Bill Payment,38023.51,Mobile App,Successful,Indore
+T000581,2025-01-03,A00039,Bill Payment,71406.48,Internet Banking,Successful,Indore
+T000582,2025-09-21,A00083,Card Purchase,5477.4,Branch,Successful,Delhi
+T000583,2025-03-17,A00142,Deposit,67291.49,Internet Banking,Successful,Delhi
+T000584,2025-03-09,A00098,Deposit,19217.17,Branch,Successful,Pune
+T000585,2025-03-13,A00044,Transfer,15793.12,ATM,Successful,Delhi
+T000586,2025-09-23,A00027,Transfer,21342.28,ATM,Successful,Pune
+T000587,2025-05-19,A00013,Transfer,5722.74,ATM,Successful,Mumbai
+T000588,2025-07-06,A00110,Deposit,73767.42,Mobile App,Failed,Delhi
+T000589,2025-10-12,A00030,Bill Payment,49166.36,Branch,Successful,Delhi
+T000590,2025-03-31,A00050,Deposit,29937.08,Mobile App,Successful,Indore
+T000591,2025-06-11,A00098,Bill Payment,15949.34,Internet Banking,Successful,Delhi
+T000592,2025-11-07,A00143,Transfer,66904.74,Mobile App,Successful,Mumbai
+T000593,2025-12-18,A00010,Withdrawal,46948.47,Mobile App,Successful,Indore
+T000594,2025-06-11,A00044,Deposit,23023.7,Mobile App,Successful,Pune
+T000595,2025-09-15,A00117,Deposit,22860.22,Internet Banking,Successful,Mumbai
+T000596,2025-04-14,A00140,Card Purchase,64705.99,ATM,Successful,Delhi
+T000597,2025-03-01,A00039,Transfer,12005.32,Branch,Successful,Indore
+T000598,2025-08-17,A00130,Card Purchase,8767.23,Branch,Successful,Indore
+T000599,2025-03-01,A00093,Withdrawal,56601.71,Internet Banking,Successful,Bhopal
+T000600,2025-03-13,A00074,Bill Payment,51359.45,Internet Banking,Successful,Indore
+T000601,2025-09-17,A00096,Bill Payment,52824.83,Mobile App,Successful,Delhi
+T000602,2025-03-14,A00141,Bill Payment,40849.54,Mobile App,Successful,Bhopal
+T000603,2025-08-12,A00028,Withdrawal,47381.93,ATM,Successful,Pune
+T000604,2025-10-09,A00101,Card Purchase,57070.61,Internet Banking,Successful,Pune
+T000605,2025-12-15,A00063,Transfer,29269.87,Branch,Successful,Pune
+T000606,2025-09-20,A00111,Deposit,69770.59,Internet Banking,Successful,Delhi
+T000607,2025-08-20,A00127,Deposit,31771.06,Internet Banking,Successful,Bhopal
+T000608,2025-06-12,A00037,Deposit,19528.14,Mobile App,Successful,Pune
+T000609,2025-09-17,A00050,Transfer,74869.01,Branch,Successful,Delhi
+T000610,2025-03-08,A00101,Deposit,45750.68,Mobile App,Successful,Pune
+T000611,2025-09-17,A00078,Deposit,1107.59,Branch,Successful,Mumbai
+T000612,2025-06-20,A00025,Withdrawal,68915.08,Mobile App,Successful,Mumbai
+T000613,2025-11-12,A00007,Transfer,51868.03,Internet Banking,Successful,Indore
+T000614,2025-11-03,A00110,Transfer,31634.63,Internet Banking,Successful,Bhopal
+T000615,2025-12-25,A00145,Withdrawal,55957.45,Branch,Successful,Bhopal
+T000616,2025-05-17,A00081,Card Purchase,6555.89,Mobile App,Successful,Mumbai
+T000617,2025-10-28,A00068,Bill Payment,9926.21,ATM,Successful,Pune
+T000618,2025-03-16,A00044,Withdrawal,21882.5,Branch,Successful,Pune
+T000619,2025-09-06,A00102,Card Purchase,51334.95,Branch,Successful,Indore
+T000620,2025-03-23,A00142,Transfer,10249.94,ATM,Successful,Delhi
+T000621,2025-02-11,A00145,Withdrawal,29952.92,Internet Banking,Successful,Mumbai
+T000622,2025-06-18,A00135,Card Purchase,63421.95,Branch,Successful,Pune
+T000623,2025-12-10,A00028,Card Purchase,849.9,Internet Banking,Successful,Delhi
+T000624,2025-08-15,A00026,Card Purchase,6611.32,Branch,Successful,Mumbai
+T000625,2025-04-10,A00037,Deposit,30420.28,ATM,Successful,Bhopal
+T000626,2025-08-08,A00056,Card Purchase,73735.1,ATM,Successful,Mumbai
+T000627,2025-04-20,A00066,Bill Payment,30315.0,Internet Banking,Successful,Bhopal
+T000628,2025-05-26,A00091,Bill Payment,37829.7,ATM,Successful,Mumbai
+T000629,2025-12-29,A00130,Withdrawal,4287.21,Mobile App,Successful,Indore
+T000630,2025-04-29,A00100,Bill Payment,42010.0,Mobile App,Successful,Bhopal
+T000631,2025-02-03,A00069,Withdrawal,7215.35,ATM,Successful,Bhopal
+T000632,2025-06-13,A00016,Transfer,15069.3,Mobile App,Successful,Mumbai
+T000633,2025-10-17,A00146,Withdrawal,68505.08,ATM,Successful,Delhi
+T000634,2025-09-17,A00117,Deposit,61944.15,Mobile App,Successful,Indore
+T000635,2025-06-02,A00127,Withdrawal,31599.59,Internet Banking,Successful,Delhi
+T000636,2025-07-31,A00017,Transfer,60669.13,Mobile App,Successful,Delhi
+T000637,2025-09-08,A00114,Bill Payment,64396.91,ATM,Successful,Delhi
+T000638,2025-08-24,A00080,Card Purchase,37936.99,Branch,Successful,Pune
+T000639,2025-10-01,A00113,Deposit,3078.46,ATM,Successful,Pune
+T000640,2025-05-19,A00133,Bill Payment,56010.83,Mobile App,Successful,Delhi
+T000641,2025-12-08,A00021,Deposit,72982.13,Branch,Failed,Indore
+T000642,2025-05-25,A00001,Transfer,55712.36,Mobile App,Successful,Pune
+T000643,2025-02-17,A00066,Card Purchase,26708.83,Internet Banking,Successful,Indore
+T000644,2025-09-03,A00069,Deposit,15775.3,ATM,Successful,Delhi
+T000645,2025-07-20,A00027,Deposit,62084.07,ATM,Successful,Indore
+T000646,2025-04-18,A00107,Transfer,19747.58,Mobile App,Successful,Pune
+T000647,2025-07-29,A00101,Transfer,25878.56,Internet Banking,Successful,Delhi
+T000648,2025-09-15,A00094,Card Purchase,65031.71,Mobile App,Successful,Bhopal
+T000649,2025-08-08,A00139,Bill Payment,20299.51,Mobile App,Successful,Bhopal
+T000650,2025-10-18,A00097,Transfer,15159.48,Branch,Failed,Bhopal
+T000651,2025-04-25,A00146,Bill Payment,46418.8,ATM,Successful,Indore
+T000652,2025-06-05,A00112,Withdrawal,39584.75,Mobile App,Successful,Pune
+T000653,2025-12-14,A00032,Deposit,28912.07,Branch,Successful,Delhi
+T000654,2025-11-03,A00129,Transfer,3520.95,ATM,Successful,Pune
+T000655,2025-11-20,A00120,Bill Payment,60294.67,Branch,Successful,Mumbai
+T000656,2025-08-10,A00091,Transfer,45570.61,Internet Banking,Successful,Indore
+T000657,2025-03-07,A00004,Bill Payment,62670.54,Internet Banking,Successful,Mumbai
+T000658,2025-01-16,A00027,Deposit,36021.66,Branch,Successful,Delhi
+T000659,2025-01-31,A00147,Card Purchase,16750.33,Mobile App,Successful,Delhi
+T000660,2025-02-17,A00076,Deposit,32714.92,ATM,Successful,Indore
+T000661,2025-12-12,A00072,Transfer,74801.43,Internet Banking,Successful,Indore
+T000662,2025-12-08,A00014,Bill Payment,47456.28,Internet Banking,Successful,Indore
+T000663,2025-10-01,A00020,Transfer,24555.32,Internet Banking,Successful,Indore
+T000664,2025-08-28,A00008,Deposit,13294.73,Internet Banking,Successful,Bhopal
+T000665,2025-09-16,A00119,Card Purchase,32201.56,ATM,Successful,Bhopal
+T000666,2025-03-27,A00011,Card Purchase,21794.76,Branch,Successful,Indore
+T000667,2025-06-19,A00048,Card Purchase,28445.81,Branch,Successful,Delhi
+T000668,2025-08-13,A00030,Bill Payment,8138.57,ATM,Successful,Mumbai
+T000669,2025-06-20,A00057,Withdrawal,19966.44,Internet Banking,Successful,Delhi
+T000670,2025-02-26,A00052,Deposit,10157.82,Branch,Successful,Indore
+T000671,2025-03-13,A00069,Card Purchase,32247.01,Branch,Successful,Pune
+T000672,2025-05-05,A00075,Card Purchase,4691.81,Branch,Successful,Delhi
+T000673,2025-01-23,A00036,Transfer,73918.07,Internet Banking,Successful,Delhi
+T000674,2025-03-30,A00126,Bill Payment,70598.61,Mobile App,Successful,Bhopal
+T000675,2025-04-17,A00073,Bill Payment,62250.99,ATM,Successful,Mumbai
+T000676,2025-09-18,A00105,Transfer,35275.98,ATM,Successful,Mumbai
+T000677,2025-05-31,A00041,Bill Payment,2028.46,Internet Banking,Successful,Pune
+T000678,2025-09-28,A00063,Transfer,40494.78,ATM,Successful,Delhi
+T000679,2025-07-31,A00089,Transfer,69395.85,Internet Banking,Successful,Indore
+T000680,2025-11-06,A00111,Transfer,17259.29,Internet Banking,Successful,Bhopal
+T000681,2025-06-02,A00115,Deposit,23058.98,Branch,Successful,Mumbai
+T000682,2025-03-10,A00092,Bill Payment,25112.42,Internet Banking,Successful,Pune
+T000683,2025-10-23,A00100,Withdrawal,11171.94,Mobile App,Successful,Indore
+T000684,2025-08-23,A00119,Card Purchase,71874.1,ATM,Successful,Indore
+T000685,2025-10-11,A00033,Card Purchase,53806.13,Branch,Successful,Delhi
+T000686,2025-09-18,A00110,Transfer,64447.09,Internet Banking,Successful,Pune
+T000687,2025-08-11,A00094,Withdrawal,34688.2,Branch,Successful,Pune
+T000688,2025-07-02,A00138,Bill Payment,71042.08,ATM,Successful,Pune
+T000689,2025-12-03,A00144,Card Purchase,7824.35,ATM,Successful,Bhopal
+T000690,2025-05-11,A00073,Transfer,44706.24,Branch,Successful,Bhopal
+T000691,2025-09-26,A00063,Transfer,23113.55,ATM,Successful,Bhopal
+T000692,2025-07-30,A00018,Withdrawal,17422.51,Mobile App,Successful,Mumbai
+T000693,2025-07-08,A00048,Withdrawal,32070.83,ATM,Successful,Bhopal
+T000694,2025-12-08,A00062,Withdrawal,1120.53,ATM,Successful,Delhi
+T000695,2025-04-20,A00060,Withdrawal,46129.27,Internet Banking,Successful,Pune
+T000696,2025-12-15,A00056,Transfer,32613.81,ATM,Pending,Mumbai
+T000697,2025-09-09,A00049,Card Purchase,18380.42,Internet Banking,Successful,Mumbai
+T000698,2025-05-02,A00008,Deposit,32383.58,ATM,Successful,Delhi
+T000699,2025-05-13,A00103,Bill Payment,36251.96,ATM,Successful,Mumbai
+T000700,2025-07-07,A00076,Bill Payment,27821.15,ATM,Successful,Delhi

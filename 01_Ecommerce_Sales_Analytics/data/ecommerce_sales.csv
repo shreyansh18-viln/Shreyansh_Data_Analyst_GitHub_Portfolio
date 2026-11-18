@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,revenue,region,sales_channel
+O00001,2025-01-25,C0010,Headphones,Electronics,2,2447.41,4894.82,North,Mobile App
+O00002,2025-04-20,C0005,Shoes,Fashion,1,3029.43,3029.43,North,Mobile App
+O00003,2025-10-10,C0055,Chair,Furniture,1,6162.86,6162.86,North,Store
+O00004,2025-10-26,C0008,Laptop,Electronics,2,56436.89,112873.78,West,Online
+O00005,2025-03-10,C0038,Phone,Electronics,1,22249.33,22249.33,West,Online
+O00006,2025-10-14,C0105,Shoes,Fashion,1,2839.71,2839.71,South,Online
+O00007,2025-10-08,C0092,Shoes,Fashion,2,2728.54,5457.08,North,Store
+O00008,2025-09-30,C0055,Laptop,Electronics,2,54960.56,109921.12,East,Mobile App
+O00009,2025-05-08,C0102,Shoes,Fashion,4,2722.49,10889.96,South,Store
+O00010,2025-09-26,C0064,Phone,Electronics,1,22327.46,22327.46,East,Store
+O00011,2025-02-07,C0016,Chair,Furniture,3,6641.65,19924.95,West,Online
+O00012,2025-08-04,C0006,Headphones,Electronics,2,2716.64,5433.28,North,Store
+O00013,2025-06-29,C0077,Shoes,Fashion,3,2710.47,8131.41,West,Store
+O00014,2025-05-19,C0061,Chair,Furniture,1,6941.96,6941.96,North,Online
+O00015,2025-12-15,C0106,Mixer,Home,3,3294.16,9882.48,West,Mobile App
+O00016,2025-06-27,C0003,Mixer,Home,4,3447.71,13790.84,West,Mobile App
+O00017,2025-04-22,C0099,Phone,Electronics,1,21972.25,21972.25,East,Online
+O00018,2025-09-12,C0011,Mixer,Home,2,3134.65,6269.3,South,Mobile App
+O00019,2025-08-09,C0111,Chair,Furniture,3,6998.4,20995.2,East,Store
+O00020,2025-07-14,C0030,Chair,Furniture,3,6737.54,20212.62,South,Online
+O00021,2025-04-30,C0002,Phone,Electronics,2,20820.61,41641.22,West,Store
+O00022,2025-03-16,C0054,Phone,Electronics,3,21040.5,63121.5,East,Store
+O00023,2025-12-20,C0110,Shoes,Fashion,3,3053.73,9161.19,North,Mobile App
+O00024,2025-07-21,C0014,Mixer,Home,4,3134.76,12539.04,West,Store
+O00025,2025-04-17,C0057,Chair,Furniture,1,6097.79,6097.79,South,Online
+O00026,2025-10-18,C0020,Headphones,Electronics,1,2301.19,2301.19,North,Mobile App
+O00027,2025-04-17,C0079,Shoes,Fashion,1,2559.38,2559.38,West,Online
+O00028,2025-11-05,C0047,Mixer,Home,3,3491.5,10474.5,West,Online
+O00029,2025-08-27,C0062,Laptop,Electronics,4,60424.13,241696.52,West,Mobile App
+O00030,2025-06-25,C0095,Laptop,Electronics,2,50624.06,101248.12,East,Mobile App
+O00031,2025-04-16,C0068,Mixer,Home,2,3210.45,6420.9,East,Online
+O00032,2025-06-02,C0083,Mixer,Home,1,3365.21,3365.21,North,Store
+O00033,2025-07-02,C0099,Headphones,Electronics,3,2704.13,8112.39,South,Store
+O00034,2025-11-10,C0104,Shoes,Fashion,3,2876.41,8629.23,South,Online
+O00035,2025-09-10,C0046,Chair,Furniture,2,6109.89,12219.78,North,Online
+O00036,2025-12-21,C0078,Headphones,Electronics,4,2379.59,9518.36,East,Mobile App
+O00037,2025-07-06,C0011,Mixer,Home,3,3491.2,10473.6,South,Online
+O00038,2025-04-15,C0062,Phone,Electronics,4,20665.51,82662.04,North,Mobile App
+O00039,2025-02-13,C0107,Mixer,Home,3,3391.77,10175.31,North,Mobile App
+O00040,2025-04-02,C0056,Mixer,Home,2,3185.94,6371.88,East,Online
+O00041,2025-02-13,C0093,Mixer,Home,4,3176.42,12705.68,South,Online
+O00042,2025-08-27,C0104,Phone,Electronics,1,20465.06,20465.06,South,Store
+O00043,2025-06-29,C0020,Shoes,Fashion,4,2888.07,11552.28,South,Online
+O00044,2025-03-13,C0056,Laptop,Electronics,1,55292.39,55292.39,South,Online
+O00045,2025-09-14,C0031,Laptop,Electronics,3,51840.58,155521.74,East,Mobile App
+O00046,2025-02-01,C0117,Shoes,Fashion,4,2987.15,11948.6,East,Mobile App
+O00047,2025-09-14,C0017,Mixer,Home,4,3409.37,13637.48,South,Store
+O00048,2025-04-04,C0078,Shoes,Fashion,1,3008.77,3008.77,North,Online
+O00049,2025-03-03,C0072,Phone,Electronics,2,21883.37,43766.74,North,Mobile App
+O00050,2025-02-24,C0114,Mixer,Home,4,3381.93,13527.72,North,Online
+O00051,2025-02-20,C0065,Phone,Electronics,3,19985.68,59957.04,West,Store
+O00052,2025-11-10,C0065,Laptop,Electronics,1,54375.73,54375.73,South,Store
+O00053,2025-09-02,C0065,Headphones,Electronics,4,2504.08,10016.32,South,Store
+O00054,2025-04-14,C0108,Shoes,Fashion,3,3036.76,9110.28,West,Online
+O00055,2025-06-11,C0010,Chair,Furniture,1,6360.07,6360.07,South,Mobile App
+O00056,2025-03-04,C0115,Laptop,Electronics,2,56864.19,113728.38,South,Store
+O00057,2025-03-12,C0060,Mixer,Home,3,2971.51,8914.53,South,Store
+O00058,2025-03-25,C0086,Laptop,Electronics,4,59234.26,236937.04,South,Online
+O00059,2025-07-26,C0044,Mixer,Home,4,3516.21,14064.84,West,Online
+O00060,2025-07-07,C0003,Headphones,Electronics,3,2296.1,6888.3,East,Store
+O00061,2025-07-16,C0043,Chair,Furniture,4,6764.1,27056.4,East,Store
+O00062,2025-04-28,C0113,Laptop,Electronics,1,60335.92,60335.92,North,Online
+O00063,2025-04-03,C0035,Headphones,Electronics,3,2269.79,6809.37,South,Mobile App
+O00064,2025-10-02,C0118,Mixer,Home,3,3139.81,9419.43,West,Store
+O00065,2025-12-19,C0024,Headphones,Electronics,1,2389.53,2389.53,West,Online
+O00066,2025-05-14,C0011,Headphones,Electronics,1,2567.22,2567.22,South,Online
+O00067,2025-06-23,C0071,Headphones,Electronics,1,2476.89,2476.89,West,Mobile App
+O00068,2025-12-30,C0031,Shoes,Fashion,2,2544.2,5088.4,North,Online
+O00069,2025-06-09,C0081,Headphones,Electronics,1,2340.57,2340.57,East,Store
+O00070,2025-12-11,C0023,Phone,Electronics,3,21761.02,65283.06,East,Mobile App
+O00071,2025-01-10,C0094,Laptop,Electronics,3,49906.44,149719.32,South,Store
+O00072,2025-02-24,C0085,Chair,Furniture,2,7065.04,14130.08,West,Store
+O00073,2025-06-07,C0089,Chair,Furniture,4,7111.41,28445.64,South,Online
+O00074,2025-12-28,C0094,Headphones,Electronics,2,2666.14,5332.28,South,Mobile App
+O00075,2025-01-08,C0010,Headphones,Electronics,1,2668.49,2668.49,East,Mobile App
+O00076,2025-07-15,C0112,Phone,Electronics,1,20171.73,20171.73,East,Store
+O00077,2025-04-05,C0021,Phone,Electronics,3,19999.04,59997.12,East,Mobile App
+O00078,2025-06-18,C0071,Laptop,Electronics,3,53505.55,160516.65,East,Online
+O00079,2025-04-04,C0001,Laptop,Electronics,3,51896.52,155689.56,East,Mobile App
+O00080,2025-12-02,C0026,Laptop,Electronics,4,52568.22,210272.88,South,Store
+O00081,2025-02-15,C0019,Laptop,Electronics,1,52405.86,52405.86,West,Store
+O00082,2025-06-05,C0081,Laptop,Electronics,4,49747.44,198989.76,South,Online
+O00083,2025-11-02,C0050,Shoes,Fashion,2,2888.22,5776.44,East,Store
+O00084,2025-11-13,C0083,Chair,Furniture,2,6219.43,12438.86,South,Online
+O00085,2025-09-16,C0018,Mixer,Home,4,3349.67,13398.68,North,Store
+O00086,2025-01-22,C0018,Shoes,Fashion,2,2567.65,5135.3,East,Online
+O00087,2025-11-18,C0003,Chair,Furniture,4,6576.09,26304.36,South,Mobile App
+O00088,2025-02-05,C0096,Headphones,Electronics,1,2478.47,2478.47,North,Store
+O00089,2025-08-31,C0033,Shoes,Fashion,1,2937.61,2937.61,North,Mobile App
+O00090,2025-11-29,C0059,Phone,Electronics,2,20815.24,41630.48,West,Mobile App
+O00091,2025-05-28,C0099,Laptop,Electronics,4,59515.13,238060.52,North,Store
+O00092,2025-03-17,C0043,Mixer,Home,2,2929.58,5859.16,East,Store
+O00093,2025-03-10,C0002,Mixer,Home,3,3277.54,9832.62,West,Online
+O00094,2025-02-20,C0089,Chair,Furniture,3,7114.26,21342.78,South,Store
+O00095,2025-05-27,C0060,Chair,Furniture,3,6771.53,20314.59,West,Mobile App
+O00096,2025-02-13,C0120,Laptop,Electronics,2,52928.42,105856.84,West,Online
+O00097,2025-09-17,C0058,Headphones,Electronics,4,2288.23,9152.92,East,Mobile App
+O00098,2025-02-16,C0019,Phone,Electronics,2,20128.3,40256.6,East,Mobile App
+O00099,2025-12-27,C0047,Phone,Electronics,3,23702.19,71106.57,South,Mobile App
+O00100,2025-01-02,C0063,Chair,Furniture,4,5882.28,23529.12,West,Mobile App
+O00101,2025-07-12,C0041,Headphones,Electronics,2,2458.09,4916.18,North,Mobile App
+O00102,2025-07-23,C0016,Laptop,Electronics,3,57758.07,173274.21,South,Store
+O00103,2025-02-03,C0051,Laptop,Electronics,3,52285.33,156855.99,West,Store
+O00104,2025-05-21,C0110,Laptop,Electronics,3,59679.57,179038.71,North,Mobile App
+O00105,2025-05-27,C0082,Laptop,Electronics,1,58681.44,58681.44,South,Online
+O00106,2025-04-08,C0099,Headphones,Electronics,4,2505.48,10021.92,East,Mobile App
+O00107,2025-10-11,C0071,Laptop,Electronics,4,59547.66,238190.64,South,Store
+O00108,2025-07-30,C0058,Laptop,Electronics,1,59768.12,59768.12,South,Store
+O00109,2025-10-09,C0017,Headphones,Electronics,4,2274.49,9097.96,South,Mobile App
+O00110,2025-05-11,C0095,Chair,Furniture,3,6216.27,18648.81,East,Mobile App
+O00111,2025-10-13,C0086,Mixer,Home,2,3072.54,6145.08,West,Online
+O00112,2025-09-14,C0116,Phone,Electronics,2,20130.75,40261.5,West,Store
+O00113,2025-08-19,C0055,Phone,Electronics,4,23787.54,95150.16,South,Store
+O00114,2025-06-25,C0072,Phone,Electronics,2,20199.14,40398.28,North,Mobile App
+O00115,2025-10-19,C0026,Phone,Electronics,3,20936.77,62810.31,North,Store
+O00116,2025-09-26,C0027,Chair,Furniture,4,6388.05,25552.2,West,Mobile App
+O00117,2025-10-22,C0047,Headphones,Electronics,1,2499.07,2499.07,South,Store
+O00118,2025-05-08,C0050,Shoes,Fashion,2,2571.85,5143.7,West,Store
+O00119,2025-01-12,C0017,Chair,Furniture,4,7090.13,28360.52,North,Mobile App
+O00120,2025-09-08,C0001,Mixer,Home,4,3499.7,13998.8,North,Mobile App
+O00121,2025-05-08,C0101,Shoes,Fashion,4,3064.46,12257.84,North,Online
+O00122,2025-12-16,C0014,Phone,Electronics,2,22098.41,44196.82,West,Online
+O00123,2025-03-06,C0030,Shoes,Fashion,1,2520.76,2520.76,North,Store
+O00124,2025-11-17,C0033,Mixer,Home,3,3495.96,10487.88,West,Store
+O00125,2025-09-26,C0075,Laptop,Electronics,1,50273.87,50273.87,South,Mobile App
+O00126,2025-01-01,C0002,Headphones,Electronics,2,2645.24,5290.48,East,Mobile App
+O00127,2025-05-05,C0061,Headphones,Electronics,3,2572.29,7716.87,South,Store
+O00128,2025-12-27,C0084,Phone,Electronics,1,24026.7,24026.7,East,Online
+O00129,2025-12-12,C0083,Laptop,Electronics,2,54981.41,109962.82,West,Online
+O00130,2025-07-09,C0030,Headphones,Electronics,2,2583.68,5167.36,West,Online
+O00131,2025-07-05,C0088,Mixer,Home,3,3339.73,10019.19,West,Online
+O00132,2025-09-16,C0009,Laptop,Electronics,3,57630.42,172891.26,South,Mobile App
+O00133,2025-04-10,C0030,Phone,Electronics,3,23169.77,69509.31,West,Online
+O00134,2025-11-16,C0064,Headphones,Electronics,3,2304.5,6913.5,South,Online
+O00135,2025-01-29,C0077,Chair,Furniture,4,7033.51,28134.04,South,Mobile App
+O00136,2025-11-02,C0019,Laptop,Electronics,2,49759.92,99519.84,West,Online
+O00137,2025-08-19,C0115,Mixer,Home,1,2997.83,2997.83,East,Store
+O00138,2025-06-18,C0025,Laptop,Electronics,1,59747.55,59747.55,South,Store
+O00139,2025-12-07,C0093,Shoes,Fashion,4,2537.86,10151.44,West,Mobile App
+O00140,2025-01-02,C0011,Headphones,Electronics,4,2334.63,9338.52,East,Online
+O00141,2025-03-05,C0072,Headphones,Electronics,4,2727.76,10911.04,South,Mobile App
+O00142,2025-08-10,C0012,Headphones,Electronics,3,2661.0,7983.0,North,Store
+O00143,2025-08-17,C0025,Chair,Furniture,2,6334.53,12669.06,East,Mobile App
+O00144,2025-07-30,C0032,Mixer,Home,4,2899.38,11597.52,West,Online
+O00145,2025-02-01,C0033,Chair,Furniture,1,6453.27,6453.27,South,Store
+O00146,2025-06-21,C0079,Laptop,Electronics,3,53492.72,160478.16,North,Mobile App
+O00147,2025-06-02,C0001,Mixer,Home,3,3471.51,10414.53,North,Online
+O00148,2025-08-27,C0100,Phone,Electronics,1,21890.83,21890.83,West,Mobile App
+O00149,2025-09-12,C0024,Chair,Furniture,4,6022.52,24090.08,North,Store
+O00150,2025-06-17,C0111,Headphones,Electronics,2,2553.63,5107.26,East,Mobile App
+O00151,2025-07-20,C0097,Headphones,Electronics,1,2505.94,2505.94,South,Online
+O00152,2025-09-04,C0071,Chair,Furniture,1,6694.41,6694.41,East,Online
+O00153,2025-05-16,C0080,Chair,Furniture,1,7134.17,7134.17,North,Online
+O00154,2025-12-30,C0058,Laptop,Electronics,4,54983.23,219932.92,South,Online
+O00155,2025-12-12,C0031,Phone,Electronics,4,21828.06,87312.24,North,Mobile App
+O00156,2025-07-10,C0033,Headphones,Electronics,3,2533.44,7600.32,East,Online
+O00157,2025-05-01,C0020,Chair,Furniture,2,6091.46,12182.92,East,Store
+O00158,2025-05-09,C0032,Phone,Electronics,3,20085.14,60255.42,South,Store
+O00159,2025-02-22,C0001,Laptop,Electronics,4,60400.51,241602.04,West,Online
+O00160,2025-05-31,C0030,Chair,Furniture,3,5902.47,17707.41,North,Online
+O00161,2025-07-10,C0066,Phone,Electronics,2,23892.76,47785.52,South,Mobile App
+O00162,2025-12-07,C0001,Shoes,Fashion,3,2954.0,8862.0,North,Store
+O00163,2025-07-08,C0044,Shoes,Fashion,3,2641.88,7925.64,South,Online
+O00164,2025-11-30,C0117,Phone,Electronics,3,19968.24,59904.72,South,Online
+O00165,2025-04-05,C0080,Headphones,Electronics,4,2589.16,10356.64,East,Online
+O00166,2025-10-08,C0062,Phone,Electronics,1,23299.24,23299.24,North,Mobile App
+O00167,2025-03-21,C0082,Laptop,Electronics,4,56804.29,227217.16,North,Store
+O00168,2025-07-29,C0037,Phone,Electronics,4,22859.79,91439.16,East,Mobile App
+O00169,2025-07-02,C0054,Laptop,Electronics,3,57698.71,173096.13,West,Online
+O00170,2025-07-27,C0027,Headphones,Electronics,2,2445.37,4890.74,North,Mobile App
+O00171,2025-02-16,C0052,Phone,Electronics,4,20299.57,81198.28,East,Mobile App
+O00172,2025-10-10,C0019,Phone,Electronics,2,19865.27,39730.54,West,Online
+O00173,2025-03-29,C0019,Shoes,Fashion,3,2932.86,8798.58,East,Mobile App
+O00174,2025-02-25,C0050,Phone,Electronics,2,23872.2,47744.4,West,Online
+O00175,2025-01-23,C0117,Headphones,Electronics,2,2668.65,5337.3,West,Mobile App
+O00176,2025-12-31,C0080,Laptop,Electronics,4,50449.24,201796.96,South,Store
+O00177,2025-04-11,C0107,Phone,Electronics,4,22504.81,90019.24,West,Online
+O00178,2025-09-23,C0021,Shoes,Fashion,2,2543.36,5086.72,West,Mobile App
+O00179,2025-04-09,C0006,Laptop,Electronics,2,52217.65,104435.3,North,Store
+O00180,2025-08-22,C0071,Headphones,Electronics,1,2444.92,2444.92,East,Store
+O00181,2025-08-06,C0050,Chair,Furniture,3,6607.41,19822.23,East,Mobile App
+O00182,2025-01-02,C0080,Shoes,Fashion,4,2620.11,10480.44,West,Mobile App
+O00183,2025-08-23,C0108,Phone,Electronics,4,23159.69,92638.76,South,Mobile App
+O00184,2025-07-03,C0056,Chair,Furniture,1,5937.26,5937.26,East,Online
+O00185,2025-03-08,C0011,Chair,Furniture,1,5902.85,5902.85,East,Store
+O00186,2025-09-16,C0115,Shoes,Fashion,1,2550.39,2550.39,West,Store
+O00187,2025-11-11,C0094,Phone,Electronics,1,23571.11,23571.11,North,Online
+O00188,2025-03-26,C0088,Phone,Electronics,4,21066.68,84266.72,South,Online
+O00189,2025-11-11,C0036,Headphones,Electronics,3,2329.38,6988.14,West,Online
+O00190,2025-05-15,C0079,Headphones,Electronics,4,2354.16,9416.64,South,Mobile App
+O00191,2025-07-26,C0021,Headphones,Electronics,1,2349.47,2349.47,East,Store
+O00192,2025-05-16,C0015,Headphones,Electronics,4,2334.37,9337.48,North,Store
+O00193,2025-10-24,C0089,Headphones,Electronics,4,2527.59,10110.36,North,Mobile App
+O00194,2025-07-10,C0034,Shoes,Fashion,4,2933.24,11732.96,West,Mobile App
+O00195,2025-02-11,C0057,Shoes,Fashion,2,2721.74,5443.48,South,Online
+O00196,2025-09-22,C0033,Shoes,Fashion,1,2685.97,2685.97,East,Store
+O00197,2025-01-18,C0029,Shoes,Fashion,3,2930.5,8791.5,South,Mobile App
+O00198,2025-07-06,C0115,Shoes,Fashion,4,2753.9,11015.6,North,Online
+O00199,2025-01-24,C0003,Chair,Furniture,2,6646.28,13292.56,North,Online
+O00200,2025-09-25,C0046,Shoes,Fashion,3,2690.09,8070.27,South,Mobile App
+O00201,2025-04-15,C0047,Shoes,Fashion,3,2849.89,8549.67,West,Online
+O00202,2025-05-05,C0091,Phone,Electronics,1,23921.0,23921.0,South,Mobile App
+O00203,2025-12-07,C0101,Laptop,Electronics,1,56520.31,56520.31,East,Mobile App
+O00204,2025-10-15,C0115,Headphones,Electronics,1,2278.07,2278.07,East,Store
+O00205,2025-09-23,C0094,Mixer,Home,4,3265.2,13060.8,West,Online
+O00206,2025-09-30,C0004,Phone,Electronics,1,19993.61,19993.61,West,Online
+O00207,2025-02-23,C0002,Phone,Electronics,2,20056.87,40113.74,South,Online
+O00208,2025-11-26,C0065,Chair,Furniture,2,6523.74,13047.48,West,Store
+O00209,2025-11-17,C0007,Phone,Electronics,3,20080.58,60241.74,West,Store
+O00210,2025-08-12,C0096,Shoes,Fashion,1,2730.09,2730.09,West,Online
+O00211,2025-02-23,C0034,Mixer,Home,4,2992.25,11969.0,South,Store
+O00212,2025-12-22,C0109,Laptop,Electronics,1,53190.68,53190.68,East,Store
+O00213,2025-12-14,C0056,Laptop,Electronics,3,56494.53,169483.59,East,Mobile App
+O00214,2025-09-17,C0002,Mixer,Home,2,2934.67,5869.34,South,Mobile App
+O00215,2025-06-17,C0025,Phone,Electronics,2,23956.67,47913.34,West,Mobile App
+O00216,2025-11-19,C0118,Shoes,Fashion,2,2732.49,5464.98,West,Mobile App
+O00217,2025-08-12,C0093,Shoes,Fashion,1,3000.21,3000.21,South,Store
+O00218,2025-10-27,C0010,Headphones,Electronics,2,2445.78,4891.56,South,Online
+O00219,2025-11-15,C0119,Laptop,Electronics,1,50730.82,50730.82,South,Mobile App
+O00220,2025-03-12,C0089,Phone,Electronics,1,19935.83,19935.83,North,Store
+O00221,2025-10-30,C0098,Laptop,Electronics,1,50223.42,50223.42,East,Online
+O00222,2025-12-31,C0050,Shoes,Fashion,1,3012.64,3012.64,North,Online
+O00223,2025-01-18,C0109,Phone,Electronics,2,20292.67,40585.34,North,Store
+O00224,2025-03-09,C0013,Mixer,Home,3,3185.35,9556.05,South,Mobile App
+O00225,2025-01-11,C0045,Headphones,Electronics,3,2461.88,7385.64,East,Mobile App
+O00226,2025-11-05,C0065,Laptop,Electronics,3,59513.68,178541.04,West,Mobile App
+O00227,2025-01-16,C0056,Shoes,Fashion,1,2961.87,2961.87,North,Mobile App
+O00228,2025-04-21,C0092,Chair,Furniture,1,6549.24,6549.24,North,Store
+O00229,2025-09-26,C0026,Headphones,Electronics,2,2468.03,4936.06,East,Online
+O00230,2025-09-09,C0089,Laptop,Electronics,3,54899.05,164697.15,South,Mobile App
+O00231,2025-09-21,C0034,Shoes,Fashion,3,3056.04,9168.12,South,Mobile App
+O00232,2025-02-26,C0082,Phone,Electronics,2,21992.59,43985.18,North,Mobile App
+O00233,2025-07-02,C0013,Mixer,Home,1,3281.88,3281.88,West,Mobile App
+O00234,2025-11-27,C0004,Mixer,Home,1,3150.16,3150.16,East,Online
+O00235,2025-10-07,C0065,Headphones,Electronics,3,2464.03,7392.09,South,Mobile App
+O00236,2025-03-06,C0069,Mixer,Home,2,3484.11,6968.22,North,Mobile App
+O00237,2025-08-19,C0085,Shoes,Fashion,3,2812.17,8436.51,East,Online
+O00238,2025-05-12,C0075,Chair,Furniture,4,6745.78,26983.12,South,Online
+O00239,2025-12-23,C0031,Headphones,Electronics,4,2571.35,10285.4,South,Mobile App
+O00240,2025-05-07,C0093,Headphones,Electronics,2,2611.67,5223.34,East,Store
+O00241,2025-06-17,C0025,Shoes,Fashion,3,2610.12,7830.36,East,Store
+O00242,2025-02-22,C0026,Laptop,Electronics,2,60086.24,120172.48,West,Online
+O00243,2025-08-11,C0036,Phone,Electronics,3,23026.49,69079.47,South,Online
+O00244,2025-07-18,C0060,Mixer,Home,1,3059.71,3059.71,North,Online
+O00245,2025-09-14,C0081,Chair,Furniture,4,6751.47,27005.88,East,Mobile App
+O00246,2025-07-27,C0001,Laptop,Electronics,2,52329.35,104658.7,South,Mobile App
+O00247,2025-12-08,C0093,Mixer,Home,4,3421.44,13685.76,South,Store
+O00248,2025-06-10,C0034,Phone,Electronics,1,21797.17,21797.17,North,Mobile App
+O00249,2025-11-19,C0021,Phone,Electronics,4,22937.86,91751.44,East,Mobile App
+O00250,2025-07-29,C0067,Chair,Furniture,4,5875.55,23502.2,South,Store
+O00251,2025-09-08,C0117,Headphones,Electronics,1,2444.35,2444.35,North,Online
+O00252,2025-04-13,C0067,Headphones,Electronics,2,2330.42,4660.84,East,Online
+O00253,2025-09-01,C0066,Shoes,Fashion,4,2822.98,11291.92,North,Store
+O00254,2025-08-22,C0027,Headphones,Electronics,3,2455.17,7365.51,South,Mobile App
+O00255,2025-11-11,C0046,Shoes,Fashion,1,2928.3,2928.3,North,Mobile App
+O00256,2025-01-07,C0010,Headphones,Electronics,4,2449.84,9799.36,West,Mobile App
+O00257,2025-02-25,C0029,Mixer,Home,3,3251.31,9753.93,East,Store
+O00258,2025-07-20,C0060,Chair,Furniture,2,7142.5,14285.0,South,Online
+O00259,2025-11-21,C0025,Phone,Electronics,1,23362.12,23362.12,West,Store
+O00260,2025-03-16,C0046,Shoes,Fashion,2,2976.2,5952.4,West,Mobile App
+O00261,2025-08-29,C0046,Headphones,Electronics,2,2639.92,5279.84,South,Mobile App
+O00262,2025-08-07,C0087,Mixer,Home,4,3319.97,13279.88,South,Mobile App
+O00263,2025-12-02,C0039,Laptop,Electronics,3,53437.75,160313.25,East,Mobile App
+O00264,2025-02-13,C0085,Chair,Furniture,4,6660.37,26641.48,East,Online
+O00265,2025-10-17,C0116,Headphones,Electronics,4,2278.53,9114.12,East,Online
+O00266,2025-01-08,C0085,Shoes,Fashion,3,2874.57,8623.71,North,Online
+O00267,2025-02-21,C0075,Laptop,Electronics,3,52250.29,156750.87,South,Online
+O00268,2025-03-20,C0027,Phone,Electronics,4,21324.35,85297.4,West,Store
+O00269,2025-10-08,C0101,Phone,Electronics,1,22741.21,22741.21,East,Online
+O00270,2025-08-13,C0086,Chair,Furniture,2,6540.03,13080.06,North,Store
+O00271,2025-03-13,C0061,Laptop,Electronics,3,54109.42,162328.26,West,Store
+O00272,2025-03-15,C0090,Laptop,Electronics,4,54638.04,218552.16,West,Online
+O00273,2025-01-04,C0021,Chair,Furniture,2,6551.41,13102.82,East,Mobile App
+O00274,2025-08-27,C0048,Mixer,Home,4,3305.79,13223.16,West,Mobile App
+O00275,2025-07-04,C0082,Mixer,Home,1,2995.53,2995.53,North,Online
+O00276,2025-06-19,C0104,Shoes,Fashion,1,2902.25,2902.25,North,Store
+O00277,2025-03-15,C0005,Chair,Furniture,4,6834.32,27337.28,South,Store
+O00278,2025-12-04,C0047,Chair,Furniture,2,6290.19,12580.38,East,Mobile App
+O00279,2025-06-25,C0055,Shoes,Fashion,2,2679.12,5358.24,East,Store
+O00280,2025-09-10,C0052,Laptop,Electronics,3,52721.71,158165.13,East,Store
+O00281,2025-12-02,C0064,Headphones,Electronics,3,2737.5,8212.5,North,Mobile App
+O00282,2025-03-07,C0076,Phone,Electronics,3,22938.0,68814.0,North,Online
+O00283,2025-01-26,C0052,Chair,Furniture,4,6559.02,26236.08,East,Online
+O00284,2025-09-01,C0078,Laptop,Electronics,1,51589.35,51589.35,North,Store
+O00285,2025-11-17,C0087,Shoes,Fashion,4,2865.35,11461.4,North,Online
+O00286,2025-03-31,C0013,Laptop,Electronics,4,56378.05,225512.2,South,Online
+O00287,2025-12-02,C0002,Chair,Furniture,1,7038.31,7038.31,East,Online
+O00288,2025-04-05,C0054,Headphones,Electronics,3,2681.23,8043.69,North,Mobile App
+O00289,2025-10-24,C0120,Laptop,Electronics,4,55729.66,222918.64,North,Mobile App
+O00290,2025-08-04,C0074,Shoes,Fashion,1,2981.86,2981.86,West,Mobile App
+O00291,2025-11-01,C0076,Laptop,Electronics,1,56979.59,56979.59,South,Mobile App
+O00292,2025-08-30,C0028,Chair,Furniture,1,5957.8,5957.8,South,Store
+O00293,2025-12-17,C0086,Laptop,Electronics,4,49552.62,198210.48,North,Online
+O00294,2025-01-10,C0036,Phone,Electronics,1,20367.46,20367.46,South,Mobile App
+O00295,2025-07-07,C0100,Mixer,Home,2,3470.59,6941.18,South,Store
+O00296,2025-12-30,C0064,Laptop,Electronics,3,56414.85,169244.55,West,Store
+O00297,2025-01-06,C0008,Headphones,Electronics,1,2608.61,2608.61,North,Store
+O00298,2025-06-09,C0094,Mixer,Home,1,3128.93,3128.93,South,Mobile App
+O00299,2025-10-22,C0094,Shoes,Fashion,1,2697.12,2697.12,West,Mobile App
+O00300,2025-03-01,C0047,Mixer,Home,2,2972.74,5945.48,South,Store
+O00301,2025-08-20,C0035,Chair,Furniture,4,6351.46,25405.84,East,Mobile App
+O00302,2025-11-30,C0091,Headphones,Electronics,1,2560.92,2560.92,East,Store
+O00303,2025-11-04,C0107,Mixer,Home,1,3412.02,3412.02,East,Store
+O00304,2025-12-17,C0049,Chair,Furniture,2,6339.68,12679.36,South,Mobile App
+O00305,2025-05-18,C0055,Headphones,Electronics,1,2410.76,2410.76,South,Store
+O00306,2025-10-20,C0019,Laptop,Electronics,3,58665.54,175996.62,East,Store
+O00307,2025-02-13,C0070,Mixer,Home,4,3101.99,12407.96,West,Mobile App
+O00308,2025-01-30,C0087,Phone,Electronics,2,21161.67,42323.34,West,Mobile App
+O00309,2025-10-28,C0097,Mixer,Home,2,3472.64,6945.28,North,Mobile App
+O00310,2025-07-01,C0099,Chair,Furniture,1,6547.0,6547.0,North,Online
+O00311,2025-09-25,C0042,Chair,Furniture,3,7000.62,21001.86,West,Store
+O00312,2025-04-09,C0012,Shoes,Fashion,2,2625.92,5251.84,South,Store
+O00313,2025-07-03,C0052,Headphones,Electronics,3,2538.93,7616.79,South,Online
+O00314,2025-02-24,C0048,Laptop,Electronics,4,53614.44,214457.76,West,Online
+O00315,2025-06-26,C0036,Phone,Electronics,3,22427.73,67283.19,North,Online
+O00316,2025-10-17,C0063,Laptop,Electronics,2,60394.45,120788.9,South,Mobile App
+O00317,2025-08-17,C0099,Headphones,Electronics,4,2298.55,9194.2,South,Mobile App
+O00318,2025-04-03,C0049,Laptop,Electronics,3,51710.88,155132.64,North,Online
+O00319,2025-12-28,C0059,Laptop,Electronics,1,55631.18,55631.18,West,Online
+O00320,2025-12-28,C0012,Shoes,Fashion,4,3036.41,12145.64,East,Mobile App
+O00321,2025-12-09,C0065,Shoes,Fashion,2,2878.75,5757.5,West,Online
+O00322,2025-05-01,C0093,Chair,Furniture,2,6332.18,12664.36,South,Online
+O00323,2025-01-31,C0116,Laptop,Electronics,3,59852.84,179558.52,North,Online
+O00324,2025-03-16,C0041,Headphones,Electronics,4,2277.88,9111.52,North,Online
+O00325,2025-08-14,C0098,Mixer,Home,3,3257.46,9772.38,North,Mobile App
+O00326,2025-03-05,C0048,Headphones,Electronics,3,2378.51,7135.53,West,Mobile App
+O00327,2025-03-15,C0118,Phone,Electronics,4,20849.21,83396.84,North,Mobile App
+O00328,2025-03-22,C0119,Mixer,Home,2,3391.26,6782.52,South,Online
+O00329,2025-03-13,C0100,Shoes,Fashion,3,3017.68,9053.04,West,Online
+O00330,2025-08-20,C0044,Chair,Furniture,1,6666.88,6666.88,East,Online
+O00331,2025-03-15,C0043,Chair,Furniture,1,6666.64,6666.64,South,Store
+O00332,2025-10-11,C0114,Laptop,Electronics,2,57350.97,114701.94,South,Mobile App
+O00333,2025-05-07,C0020,Phone,Electronics,3,21640.36,64921.08,North,Mobile App
+O00334,2025-03-27,C0034,Shoes,Fashion,3,2707.32,8121.96,West,Online
+O00335,2025-02-28,C0020,Headphones,Electronics,4,2701.58,10806.32,North,Store
+O00336,2025-05-27,C0016,Mixer,Home,2,3238.36,6476.72,East,Online
+O00337,2025-05-03,C0119,Headphones,Electronics,4,2745.51,10982.04,South,Online
+O00338,2025-03-25,C0008,Chair,Furniture,3,6390.33,19170.99,East,Online
+O00339,2025-09-17,C0044,Mixer,Home,1,3162.95,3162.95,South,Mobile App
+O00340,2025-08-11,C0006,Laptop,Electronics,3,51544.03,154632.09,West,Online
+O00341,2025-04-03,C0067,Headphones,Electronics,2,2319.04,4638.08,South,Store
+O00342,2025-02-14,C0114,Phone,Electronics,2,22442.87,44885.74,West,Mobile App
+O00343,2025-12-09,C0091,Phone,Electronics,2,20402.98,40805.96,South,Store
+O00344,2025-12-21,C0094,Headphones,Electronics,2,2255.02,4510.04,West,Store
+O00345,2025-11-24,C0111,Laptop,Electronics,3,53187.41,159562.23,West,Online
+O00346,2025-09-02,C0018,Laptop,Electronics,4,59512.38,238049.52,East,Online
+O00347,2025-12-26,C0048,Phone,Electronics,3,19961.35,59884.05,North,Mobile App
+O00348,2025-02-06,C0016,Shoes,Fashion,4,3062.49,12249.96,East,Store
+O00349,2025-07-15,C0074,Phone,Electronics,3,23228.15,69684.45,North,Mobile App
+O00350,2025-01-14,C0068,Laptop,Electronics,4,54410.83,217643.32,South,Online
+O00351,2025-04-04,C0022,Phone,Electronics,1,20784.28,20784.28,North,Mobile App
+O00352,2025-12-24,C0095,Headphones,Electronics,1,2259.73,2259.73,South,Mobile App
+O00353,2025-12-26,C0057,Laptop,Electronics,4,55252.02,221008.08,North,Mobile App
+O00354,2025-03-05,C0060,Laptop,Electronics,2,49996.88,99993.76,West,Store
+O00355,2025-03-04,C0052,Shoes,Fashion,3,2581.62,7744.86,South,Store
+O00356,2025-03-17,C0086,Shoes,Fashion,2,3002.21,6004.42,West,Store
+O00357,2025-01-10,C0082,Chair,Furniture,2,7082.65,14165.3,West,Store
+O00358,2025-01-27,C0100,Chair,Furniture,1,6364.32,6364.32,East,Mobile App
+O00359,2025-08-12,C0108,Chair,Furniture,2,6940.14,13880.28,East,Mobile App
+O00360,2025-03-17,C0088,Shoes,Fashion,1,2701.93,2701.93,East,Online
+O00361,2025-09-29,C0024,Chair,Furniture,1,6323.76,6323.76,North,Mobile App
+O00362,2025-01-11,C0029,Chair,Furniture,2,6506.21,13012.42,South,Mobile App
+O00363,2025-01-21,C0005,Chair,Furniture,4,6673.17,26692.68,East,Store
+O00364,2025-01-19,C0080,Shoes,Fashion,3,2871.82,8615.46,North,Mobile App
+O00365,2025-01-21,C0037,Laptop,Electronics,1,54270.6,54270.6,North,Mobile App
+O00366,2025-11-01,C0118,Headphones,Electronics,2,2310.19,4620.38,East,Online
+O00367,2025-09-19,C0017,Chair,Furniture,2,6421.97,12843.94,East,Mobile App
+O00368,2025-02-14,C0095,Shoes,Fashion,3,2673.5,8020.5,East,Mobile App
+O00369,2025-04-14,C0071,Shoes,Fashion,2,2884.2,5768.4,East,Mobile App
+O00370,2025-08-29,C0105,Shoes,Fashion,3,2863.17,8589.51,East,Online
+O00371,2025-09-20,C0070,Phone,Electronics,3,20774.95,62324.85,West,Store
+O00372,2025-03-25,C0111,Chair,Furniture,1,7051.45,7051.45,South,Mobile App
+O00373,2025-05-26,C0113,Shoes,Fashion,3,2795.19,8385.57,South,Mobile App
+O00374,2025-02-04,C0078,Laptop,Electronics,1,51244.23,51244.23,East,Mobile App
+O00375,2025-08-14,C0046,Mixer,Home,1,3210.88,3210.88,North,Store
+O00376,2025-12-09,C0046,Phone,Electronics,2,21633.71,43267.42,South,Store
+O00377,2025-09-23,C0013,Phone,Electronics,3,23413.25,70239.75,West,Mobile App
+O00378,2025-02-22,C0001,Mixer,Home,2,3144.34,6288.68,West,Store
+O00379,2025-10-20,C0020,Shoes,Fashion,1,2798.81,2798.81,West,Mobile App
+O00380,2025-08-20,C0089,Shoes,Fashion,1,2732.55,2732.55,West,Mobile App
+O00381,2025-07-20,C0068,Mixer,Home,3,3067.47,9202.41,West,Store
+O00382,2025-09-13,C0049,Headphones,Electronics,1,2643.54,2643.54,West,Mobile App
+O00383,2025-08-12,C0074,Phone,Electronics,3,23332.99,69998.97,West,Store
+O00384,2025-06-19,C0042,Phone,Electronics,1,23415.21,23415.21,South,Mobile App
+O00385,2025-01-06,C0004,Phone,Electronics,4,23721.52,94886.08,North,Mobile App
+O00386,2025-10-02,C0100,Shoes,Fashion,4,2687.9,10751.6,East,Store
+O00387,2025-09-22,C0094,Shoes,Fashion,4,2809.77,11239.08,West,Mobile App
+O00388,2025-12-13,C0045,Chair,Furniture,3,5902.93,17708.79,West,Online
+O00389,2025-02-20,C0053,Mixer,Home,1,3216.16,3216.16,East,Store
+O00390,2025-08-04,C0063,Chair,Furniture,2,6993.79,13987.58,West,Mobile App
+O00391,2025-02-17,C0022,Shoes,Fashion,3,2907.28,8721.84,East,Mobile App
+O00392,2025-09-20,C0023,Headphones,Electronics,1,2663.01,2663.01,North,Store
+O00393,2025-09-18,C0114,Headphones,Electronics,3,2660.28,7980.84,West,Store
+O00394,2025-04-17,C0065,Phone,Electronics,3,23391.12,70173.36,South,Mobile App
+O00395,2025-11-05,C0014,Phone,Electronics,1,22572.43,22572.43,East,Store
+O00396,2025-01-06,C0101,Mixer,Home,1,3322.71,3322.71,North,Mobile App
+O00397,2025-07-23,C0108,Mixer,Home,1,3466.9,3466.9,North,Store
+O00398,2025-09-12,C0099,Laptop,Electronics,1,51663.15,51663.15,East,Store
+O00399,2025-07-30,C0078,Shoes,Fashion,2,2841.7,5683.4,North,Online
+O00400,2025-02-08,C0022,Phone,Electronics,1,19927.75,19927.75,West,Mobile App
+O00401,2025-02-01,C0084,Shoes,Fashion,4,2971.7,11886.8,North,Store
+O00402,2025-05-02,C0046,Shoes,Fashion,3,2600.6,7801.8,East,Online
+O00403,2025-10-26,C0009,Laptop,Electronics,3,56415.68,169247.04,East,Online
+O00404,2025-04-23,C0114,Chair,Furniture,4,5875.41,23501.64,West,Store
+O00405,2025-05-03,C0032,Laptop,Electronics,4,50100.43,200401.72,South,Online
+O00406,2025-08-22,C0039,Phone,Electronics,2,21185.09,42370.18,West,Store
+O00407,2025-02-04,C0032,Headphones,Electronics,4,2739.77,10959.08,West,Store
+O00408,2025-07-24,C0113,Mixer,Home,2,3144.64,6289.28,West,Online
+O00409,2025-07-03,C0049,Phone,Electronics,1,20563.26,20563.26,South,Online
+O00410,2025-02-28,C0043,Headphones,Electronics,4,2530.77,10123.08,West,Mobile App
+O00411,2025-08-05,C0106,Chair,Furniture,1,7099.6,7099.6,East,Store
+O00412,2025-05-26,C0045,Phone,Electronics,4,20641.26,82565.04,South,Mobile App
+O00413,2025-06-24,C0104,Laptop,Electronics,3,56807.02,170421.06,South,Online
+O00414,2025-05-19,C0070,Mixer,Home,2,2939.28,5878.56,South,Store
+O00415,2025-05-03,C0021,Chair,Furniture,4,6937.21,27748.84,East,Mobile App
+O00416,2025-10-25,C0027,Phone,Electronics,4,21458.33,85833.32,East,Mobile App
+O00417,2025-08-20,C0087,Shoes,Fashion,2,2647.27,5294.54,South,Store
+O00418,2025-07-08,C0069,Headphones,Electronics,4,2543.78,10175.12,South,Mobile App
+O00419,2025-03-04,C0087,Shoes,Fashion,2,2590.29,5180.58,North,Store
+O00420,2025-10-18,C0019,Headphones,Electronics,4,2264.36,9057.44,East,Online
+O00421,2025-04-29,C0042,Chair,Furniture,1,6753.06,6753.06,South,Store
+O00422,2025-07-05,C0104,Laptop,Electronics,1,55681.9,55681.9,East,Online
+O00423,2025-05-28,C0017,Laptop,Electronics,3,50467.34,151402.02,West,Mobile App
+O00424,2025-08-26,C0100,Headphones,Electronics,4,2672.18,10688.72,South,Mobile App
+O00425,2025-12-06,C0089,Phone,Electronics,1,21412.96,21412.96,East,Mobile App
+O00426,2025-07-25,C0046,Laptop,Electronics,4,52232.63,208930.52,North,Online
+O00427,2025-11-08,C0094,Headphones,Electronics,1,2385.44,2385.44,South,Store
+O00428,2025-11-08,C0021,Mixer,Home,1,3138.98,3138.98,West,Online
+O00429,2025-01-21,C0071,Headphones,Electronics,2,2440.37,4880.74,East,Store
+O00430,2025-04-27,C0073,Mixer,Home,2,3241.31,6482.62,West,Store
+O00431,2025-12-10,C0088,Shoes,Fashion,3,3038.39,9115.17,East,Online
+O00432,2025-10-27,C0078,Laptop,Electronics,3,59411.78,178235.34,North,Online
+O00433,2025-06-13,C0027,Mixer,Home,1,2903.76,2903.76,East,Store
+O00434,2025-07-21,C0096,Laptop,Electronics,4,57141.45,228565.8,South,Mobile App
+O00435,2025-08-06,C0057,Shoes,Fashion,1,2715.46,2715.46,East,Store
+O00436,2025-12-13,C0090,Shoes,Fashion,4,2804.85,11219.4,South,Mobile App
+O00437,2025-04-07,C0006,Mixer,Home,2,3193.29,6386.58,East,Online
+O00438,2025-11-23,C0031,Shoes,Fashion,2,3062.87,6125.74,East,Online
+O00439,2025-07-30,C0012,Laptop,Electronics,2,53436.08,106872.16,South,Store
+O00440,2025-12-28,C0063,Headphones,Electronics,2,2318.28,4636.56,West,Online
+O00441,2025-12-21,C0057,Mixer,Home,2,2883.76,5767.52,South,Store
+O00442,2025-12-29,C0019,Headphones,Electronics,3,2316.7,6950.1,South,Mobile App
+O00443,2025-03-28,C0087,Mixer,Home,1,3230.89,3230.89,South,Store
+O00444,2025-02-28,C0089,Chair,Furniture,4,6930.52,27722.08,East,Online
+O00445,2025-01-31,C0115,Headphones,Electronics,4,2353.22,9412.88,East,Mobile App
+O00446,2025-08-18,C0015,Phone,Electronics,1,22887.14,22887.14,South,Mobile App
+O00447,2025-05-29,C0022,Chair,Furniture,4,6589.94,26359.76,North,Online
+O00448,2025-09-06,C0011,Laptop,Electronics,4,60413.41,241653.64,East,Store
+O00449,2025-09-08,C0056,Shoes,Fashion,3,2580.93,7742.79,West,Online
+O00450,2025-02-16,C0083,Shoes,Fashion,3,2524.65,7573.95,East,Store
+O00451,2025-02-10,C0018,Shoes,Fashion,3,2885.72,8657.16,North,Online
+O00452,2025-04-06,C0082,Chair,Furniture,2,6235.21,12470.42,South,Online
+O00453,2025-06-17,C0049,Mixer,Home,3,3355.09,10065.27,South,Store
+O00454,2025-03-11,C0071,Headphones,Electronics,3,2365.11,7095.33,East,Mobile App
+O00455,2025-10-18,C0103,Phone,Electronics,1,19981.51,19981.51,West,Online
+O00456,2025-03-22,C0039,Phone,Electronics,4,21661.11,86644.44,North,Online
+O00457,2025-08-15,C0082,Mixer,Home,2,2984.73,5969.46,West,Online
+O00458,2025-04-22,C0093,Laptop,Electronics,4,54773.42,219093.68,East,Online
+O00459,2025-02-06,C0085,Laptop,Electronics,4,51074.78,204299.12,North,Store
+O00460,2025-02-02,C0057,Mixer,Home,4,3450.0,13800.0,North,Store
+O00461,2025-01-03,C0057,Phone,Electronics,2,21466.82,42933.64,East,Store
+O00462,2025-06-15,C0067,Phone,Electronics,4,20174.18,80696.72,West,Mobile App
+O00463,2025-11-08,C0080,Shoes,Fashion,2,3065.65,6131.3,North,Online
+O00464,2025-06-02,C0073,Mixer,Home,3,3269.86,9809.58,West,Mobile App
+O00465,2025-06-25,C0068,Chair,Furniture,2,6239.11,12478.22,North,Online
+O00466,2025-03-17,C0085,Phone,Electronics,4,22841.98,91367.92,East,Store
+O00467,2025-05-04,C0073,Shoes,Fashion,4,2721.6,10886.4,West,Mobile App
+O00468,2025-04-14,C0071,Headphones,Electronics,1,2363.62,2363.62,North,Online
+O00469,2025-12-10,C0033,Headphones,Electronics,1,2343.77,2343.77,West,Online
+O00470,2025-10-21,C0090,Shoes,Fashion,4,2646.87,10587.48,North,Store
+O00471,2025-12-14,C0010,Shoes,Fashion,1,2996.86,2996.86,West,Online
+O00472,2025-09-21,C0014,Shoes,Fashion,1,2870.89,2870.89,West,Store
+O00473,2025-04-09,C0073,Chair,Furniture,2,7108.35,14216.7,West,Online
+O00474,2025-01-30,C0052,Phone,Electronics,3,23215.12,69645.36,South,Online
+O00475,2025-11-01,C0028,Headphones,Electronics,1,2257.59,2257.59,West,Mobile App
+O00476,2025-02-14,C0080,Laptop,Electronics,2,54185.73,108371.46,South,Store
+O00477,2025-06-24,C0103,Laptop,Electronics,3,51348.06,154044.18,North,Mobile App
+O00478,2025-09-26,C0046,Laptop,Electronics,2,53603.16,107206.32,West,Online
+O00479,2025-10-09,C0042,Shoes,Fashion,3,2575.8,7727.4,North,Online
+O00480,2025-04-09,C0089,Mixer,Home,2,3042.95,6085.9,West,Online
+O00481,2025-01-11,C0063,Shoes,Fashion,4,2583.6,10334.4,North,Online
+O00482,2025-05-29,C0112,Headphones,Electronics,2,2325.12,4650.24,West,Online
+O00483,2025-12-20,C0098,Shoes,Fashion,3,2821.52,8464.56,East,Mobile App
+O00484,2025-03-19,C0063,Laptop,Electronics,1,53266.05,53266.05,West,Online
+O00485,2025-11-27,C0087,Laptop,Electronics,1,51505.14,51505.14,West,Mobile App
+O00486,2025-11-09,C0067,Phone,Electronics,4,21531.03,86124.12,North,Mobile App
+O00487,2025-03-09,C0076,Headphones,Electronics,2,2405.63,4811.26,North,Online
+O00488,2025-06-19,C0074,Phone,Electronics,3,22999.88,68999.64,West,Mobile App
+O00489,2025-10-24,C0062,Headphones,Electronics,3,2252.99,6758.97,East,Online
+O00490,2025-11-08,C0006,Laptop,Electronics,2,54553.48,109106.96,South,Store
+O00491,2025-05-20,C0009,Mixer,Home,2,3054.51,6109.02,East,Mobile App
+O00492,2025-01-18,C0118,Shoes,Fashion,2,3075.62,6151.24,North,Online
+O00493,2025-05-25,C0102,Chair,Furniture,1,6321.78,6321.78,South,Online
+O00494,2025-06-24,C0095,Mixer,Home,1,3074.56,3074.56,East,Store
+O00495,2025-10-09,C0092,Mixer,Home,2,3104.28,6208.56,West,Mobile App
+O00496,2025-09-04,C0065,Laptop,Electronics,3,56889.28,170667.84,East,Online
+O00497,2025-04-16,C0001,Phone,Electronics,3,20463.56,61390.68,West,Mobile App
+O00498,2025-06-04,C0119,Chair,Furniture,4,6589.34,26357.36,South,Store
+O00499,2025-06-07,C0033,Laptop,Electronics,2,52816.38,105632.76,East,Online
+O00500,2025-06-05,C0075,Phone,Electronics,1,22373.66,22373.66,East,Mobile App

@@ -1,0 +1,1 @@
+Import the CSV into Power BI. Set transaction_date to Date and amount to Decimal. Add DAX measures. Create KPI cards for transaction count, successful value, average value and failed transactions; charts for transaction type, channel, city and monthly value; slicers for status, channel and type. Save as Banking_Transaction_Dashboard.pbix.
